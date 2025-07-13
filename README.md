@@ -48,20 +48,59 @@ fake_invoice_detector/
 
 ## 🔧 Installation & Setup
 
-### Backend Setup
+### Quick Setup (Recommended)
+```bash
+# Clone the repository
+git clone https://github.com/shreeyashree-65/fake-invoice-detector.git
+cd fake-invoice-detector
+
+# Run automatic setup
+python setup.py setup
+
+# Start development servers
+python setup.py dev
+```
+
+### Manual Setup
+
+#### Backend Setup
 ```bash
 cd backend
 pip install -r requirements.txt
 python src/data_generator.py  # Generate training data
 python src/model_trainer.py   # Train ML models
-uvicorn app:app --reload      # Start FastAPI server
+python app.py                 # Start FastAPI server
 ```
 
-### Frontend Setup
+#### Frontend Setup
 ```bash
 cd frontend
 npm install
 npm start
+```
+
+### Docker Setup
+```bash
+# Build and run with Docker
+docker-compose up --build
+
+# Or use the setup script
+python setup.py docker-build
+python setup.py docker-start
+```
+
+### OCR Setup (Optional)
+For image processing capabilities:
+
+**Windows:**
+1. Download Tesseract from: https://github.com/UB-Mannheim/tesseract/wiki
+2. Install and add to PATH
+3. Update `pytesseract.pytesseract.tesseract_cmd` in `ocr_processor.py`
+
+**Linux/Mac:**
+```bash
+sudo apt-get install tesseract-ocr  # Ubuntu/Debian
+brew install tesseract             # macOS
 ```
 
 ## 🧠 Machine Learning Approach

@@ -1,11 +1,15 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, File, UploadFile
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import joblib
 import pandas as pd
 from src.feature_engineering import InvoiceFeatureExtractor
+from src.ocr_processor import InvoiceOCRProcessor
 from datetime import datetime
 from typing import Optional
 import numpy as np
+import os
+import shutil
 
 # Initialize FastAPI app
 app = FastAPI(
@@ -24,8 +28,21 @@ except FileNotFoundError:
     rf_model = None
     xgb_model = None
 
-# Initialize feature extractor
+# Initialize feature extractor and OCR processor
 feature_extractor = InvoiceFeatureExtractor()
+ocr_processor = InvoiceOCRProcessor()
+
+# Create uploads directory if it doesn't exist
+os.makedirs("uploads", exist_ok=True)
+
+# Add CORS middleware
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000"],  # React development server
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # Pydantic models for request/response
 class InvoiceData(BaseModel):
@@ -131,6 +148,25 @@ def predict_xgboost(invoice: InvoiceData):
         }
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Prediction error: {str(e)}")
+
+@app.post("/upload-invoice")
+def upload_invoice(file: UploadFile = File(...)):
+    try:
+        # Save uploaded file locally
+        file_location = f"uploads/{file.filename}"
+        with open(file_location, "wb+") as file_object:
+            shutil.copyfileobj(file.file, file_object)
+        
+        # Process image using OCR
+        invoice_data = ocr_processor.process_invoice_image(file_location)
+
+        # Remove the temporary saved file
+        os.remove(file_location)
+
+        return {"success": True, "invoice_data": invoice_data}
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error processing invoice image: {str(e)}")
 
 @app.get("/features")
 def get_feature_names():
