@@ -8,7 +8,7 @@
 
 AI-powered fake invoice detection system using machine learning to identify fraudulent invoices through text and numerical pattern analysis.
 
-## 🚀 Features
+##  Features
 
 - **OCR Integration**: Extract text from invoice images
 - **ML-Based Detection**: XGBoost and Random Forest models
@@ -16,7 +16,7 @@ AI-powered fake invoice detection system using machine learning to identify frau
 - **Web Interface**: React frontend with FastAPI backend
 - **Real-time Analysis**: Upload and analyze invoices instantly
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - **FastAPI**: Modern web framework for APIs
@@ -31,7 +31,7 @@ AI-powered fake invoice detection system using machine learning to identify frau
 - **Material-UI**: Modern UI components
 - **Axios**: API communication
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 fake_invoice_detector/
@@ -52,7 +52,7 @@ fake_invoice_detector/
 └── README.md
 ```
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
 ### Quick Setup
 ```bash
