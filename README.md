@@ -1,4 +1,10 @@
-# Fake Invoice Detector
+# 🔍 Fake Invoice Detector
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
+[![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-green.svg)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
 
 AI-powered fake invoice detection system using machine learning to identify fraudulent invoices through text and numerical pattern analysis.
 
