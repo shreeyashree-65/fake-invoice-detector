@@ -98,16 +98,10 @@ python setup.py docker-start
 ### OCR Setup 
 For image processing capabilities:
 
-**Windows:**
 1. Download Tesseract from: https://github.com/UB-Mannheim/tesseract/wiki
 2. Install and add to PATH
 3. Update `pytesseract.pytesseract.tesseract_cmd` in `ocr_processor.py`
 
-**Linux/Mac:**
-```bash
-sudo apt-get install tesseract-ocr  # Ubuntu/Debian
-brew install tesseract             # macOS
-```
 
 ##  Machine Learning Approach
 
