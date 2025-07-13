@@ -1,0 +1,1001 @@
+invoice_id,vendor_name,amount,tax_amount,tax_rate,description,date,is_fake
+INV-1996,Amazon Web Servces,25000.0,7309.63,0.2904598719368418,Emergency maintenance work,2024-11-10 01:58:36.481350,1
+INV-4979,Gogle LLC,24165.64,4349.82,0.18,Miscellaneous services and products,2024-08-30 01:58:36.481350,1
+INV-6589,Microsft Corp,45820.05,8473.17,0.18468287894337687,Miscellaneous services and products,2025-06-23 01:58:36.481350,1
+1ODX0UNW,Salesforec Inc,10000.0,1827.87,0.1855009098326557,Various professional services,2025-04-13 01:58:36.481350,1
+INV-2826,Apple Inc,7206.0,1297.08,0.18,Software licensing and support services,2025-07-12 01:58:36.481350,0
+INV-8693,IBM Corporation,9630.65,1733.52,0.18,Professional consulting services,2024-10-15 01:58:36.481350,0
+TD3X139O,Gogle LLC,15492.73,2788.69,0.18,Emergency maintenance work,2025-04-22 01:58:36.481350,1
+INV-3198,Salesforce Inc,4818.28,867.29,0.18,Software licensing and support services,2024-10-07 01:58:36.481350,0
+INV-2015,Microsft Corp,44442.06,7999.57,0.18,Emergency maintenance work,2024-09-09 01:58:36.499205,1
+INV-9234,Amazon Web Services,3673.94,661.31,0.18,Professional consulting services,2025-02-05 01:58:36.481350,0
+INV-5482,Microsoft Corp,7209.23,1297.66,0.18,Software licensing and support services,2024-07-23 01:58:36.481350,0
+T3XQJ4SP,Gogle LLC,16194.24,2914.96,0.18,General business expenses,2025-03-22 01:58:36.497189,1
+INV-1838,Google LLC,346.13,62.3,0.18,Hardware procurement and installation,2024-08-27 01:58:36.481350,0
+INV-3071,Microsft Corp,47839.37,9437.9,0.1981198785951278,Miscellaneous services and products,2024-07-27 01:58:36.497189,1
+INV-7553,Salesforce Inc,7540.64,1357.32,0.18,Professional consulting services,2025-06-21 01:58:36.481350,0
+INV-3117,Microsoft Corp,6661.78,1199.12,0.18,Cloud computing services for Q1 2024,2025-06-24 01:58:36.481350,0
+INV-8295,Salesforce Inc,1631.62,293.69,0.18,Hardware procurement and installation,2025-06-27 01:58:36.481350,0
+INV-8954,Aple Inc,5960.0,1072.8,0.18,General business expenses,2025-06-08 01:58:36.481350,1
+INV-2315,Google LLC,6146.42,1106.36,0.18,Software licensing and support services,2024-10-27 01:58:36.481350,0
+INV-6520,IBM Corporaton,965.75,118.49,0.07249621142864728,Various professional services,2025-06-27 01:58:36.497189,1
+INV-6380,Salesforec Inc,47793.6,9191.79,0.19312235474199285,Various professional services,2025-05-23 01:58:36.497189,1
+INV-9776,Oracl Corporation,7157.41,1288.33,0.18,Various professional services,2025-01-04 01:58:36.481350,1
+INV-1692,IBM Corporation,194.85,35.07,0.18,Cloud computing services for Q1 2024,2024-08-06 01:58:36.481350,0
+INV-2503,Oracle Corporation,4483.24,806.98,0.18,Professional consulting services,2025-05-15 01:58:36.481350,0
+INV-4742,Oracle Corporation,8858.1,1594.46,0.18,Software licensing and support services,2025-03-01 01:58:36.481350,0
+INV-2086,IBM Corporation,1510.65,271.92,0.18,Professional consulting services,2024-11-01 01:58:36.481350,0
+INV-8161,Microsft Corp,26271.01,4728.78,0.18,Emergency maintenance work,2025-02-05 01:58:36.481350,1
+INV-5373,Aple Inc,27479.56,5173.05,0.18727219865972478,Various professional services,2025-06-03 01:58:36.481350,1
+EXUNHJRX,Gogle LLC,32191.16,6174.02,0.19294537616280355,Emergency maintenance work,2025-06-02 01:58:36.481350,1
+INV-8622,Google LLC,1530.08,275.41,0.18,Professional consulting services,2025-04-17 01:58:36.481350,0
+INV-9593,Aple Inc,4789.73,459.96,0.10146375253336166,Emergency maintenance work,2025-05-13 01:58:36.497189,1
+INV-6658,Oracl Corporation,32054.05,5769.73,0.18,Various professional services,2025-03-16 01:58:36.481350,1
+INV-5028,IBM Corporaton,24976.5,4495.77,0.18,Various professional services,2025-03-14 01:58:36.481350,1
+INV-1769,Google LLC,4594.58,827.02,0.18,Cloud computing services for Q1 2024,2024-10-14 01:58:36.481350,0
+INV-2335,Salesforce Inc,4507.53,811.36,0.18,Professional consulting services,2025-06-08 01:58:36.481350,0
+INV-1896,IBM Corporaton,25000.0,4500.0,0.18,Emergency maintenance work,2025-04-29 01:58:36.481350,1
+TF41IVR7,IBM Corporaton,9306.15,1675.11,0.18,Various professional services,2025-03-30 01:58:36.481350,1
+WUPB5C4W,Amazon Web Servces,5000.0,811.47,0.16806611599989102,Miscellaneous services and products,2024-09-25 01:58:36.481350,1
+INV-5250,Gogle LLC,22830.35,6255.36,0.27506135056731795,General business expenses,2025-06-25 01:58:36.481350,1
+INV-1339,Microsft Corp,24332.98,4379.94,0.18,Emergency maintenance work,2024-07-19 01:58:36.481350,1
+INV-5782,Apple Inc,9318.82,1677.39,0.18,Hardware procurement and installation,2024-11-10 01:58:36.481350,0
+INV-2237,IBM Corporaton,38119.1,6983.32,0.18372048255775192,Various professional services,2025-07-01 01:58:36.481350,1
+NY2GLPB0,Oracl Corporation,35945.74,5728.09,0.15805821714002555,Various professional services,2025-05-13 01:58:36.481350,1
+9KSGJP5O,Salesforec Inc,4634.18,834.15,0.18,Emergency maintenance work,2024-12-02 01:58:36.481350,1
+INV-1547,Amazon Web Services,7839.82,1411.17,0.18,Cloud computing services for Q1 2024,2025-05-15 01:58:36.481350,0
+INV-7273,Amazon Web Services,959.55,172.72,0.18,Software licensing and support services,2025-03-04 01:58:36.481350,0
+215HQLLM,Oracl Corporation,34359.3,6184.67,0.18,Various professional services,2025-05-24 01:58:36.481350,1
+INV-6553,Apple Inc,2163.39,389.41,0.18,Hardware procurement and installation,2024-10-28 01:58:36.481350,0
+INV-3302,IBM Corporation,2602.79,468.5,0.18,Hardware procurement and installation,2024-08-13 01:58:36.481350,0
+INV-3236,Microsft Corp,20894.06,2861.34,0.13641820154301715,Miscellaneous services and products,2025-04-25 01:58:36.481350,1
+PRAZ8B2H,Microsft Corp,21514.08,4076.7,0.18983142746204473,Emergency maintenance work,2025-03-30 01:58:36.481350,1
+INV-6858,Google LLC,575.55,103.6,0.18,Software licensing and support services,2025-01-05 01:58:36.481350,0
+INV-6199,Apple Inc,5009.36,901.68,0.18,Hardware procurement and installation,2025-05-07 01:58:36.481350,0
+INV-4133,Salesforce Inc,2865.53,515.8,0.18,Software licensing and support services,2025-06-28 01:58:36.481350,0
+INV-7553,Microsft Corp,42630.65,7673.52,0.18,General business expenses,2024-08-20 01:58:36.497189,1
+INV-5331,Gogle LLC,2969.4,534.49,0.18,Miscellaneous services and products,2024-09-22 01:58:36.481350,1
+INV-7307,Gogle LLC,12999.62,2339.93,0.18,Miscellaneous services and products,2025-03-31 01:58:36.481350,1
+INV-5573,IBM Corporation,6448.92,1160.81,0.18,Hardware procurement and installation,2025-05-09 01:58:36.481350,0
+INV-7075,Microsoft Corp,9287.73,1671.79,0.18,Cloud computing services for Q1 2024,2024-08-06 01:58:36.481350,0
+INV-2009,Oracl Corporation,5000.0,417.89,0.08328184646222099,Emergency maintenance work,2025-01-06 01:58:36.481350,1
+INV-9787,Gogle LLC,5823.46,1048.22,0.18,Various professional services,2025-06-26 01:58:36.497189,1
+INV-9497,Google LLC,8366.96,1506.05,0.18,Cloud computing services for Q1 2024,2024-08-13 01:58:36.481350,0
+INV-1713,Gogle LLC,7434.59,1338.23,0.18,Various professional services,2024-11-10 01:58:36.481350,1
+INV-2342,Amazon Web Services,7186.83,1293.63,0.18,Software licensing and support services,2025-02-16 01:58:36.481350,0
+INV-7998,Oracle Corporation,8543.23,1537.78,0.18,Hardware procurement and installation,2025-01-19 01:58:36.481350,0
+INV-8753,Amazon Web Services,2670.98,480.78,0.18,Software licensing and support services,2025-06-11 01:58:36.481350,0
+ZOHVT1IF,Salesforec Inc,9925.4,1786.57,0.18,Emergency maintenance work,2025-05-25 01:58:36.497189,1
+INV-7806,Aple Inc,21816.13,3926.9,0.18,Miscellaneous services and products,2024-10-11 01:58:36.481350,1
+INV-7251,Salesforec Inc,8331.0,1499.58,0.18,General business expenses,2025-06-23 01:58:36.481350,1
+INV-8403,Apple Inc,2691.64,484.5,0.18,Software licensing and support services,2025-04-21 01:58:36.481350,0
+INV-6832,Apple Inc,2424.26,436.37,0.18,Professional consulting services,2025-04-10 01:58:36.481350,0
+INV-9835,IBM Corporaton,12785.1,1613.26,0.12387398661561584,General business expenses,2025-04-09 01:58:36.481350,1
+INV-3875,Amazon Web Servces,1000.0,180.0,0.18,Emergency maintenance work,2025-02-05 01:58:36.497189,1
+INV-8916,Amazon Web Services,3902.0,702.36,0.18,Cloud computing services for Q1 2024,2025-07-11 01:58:36.481350,0
+INV-5885,Oracle Corporation,4709.42,847.7,0.18,Cloud computing services for Q1 2024,2024-09-17 01:58:36.481350,0
+INV-1863,Google LLC,4919.93,885.59,0.18,Hardware procurement and installation,2025-07-04 01:58:36.481350,0
+INV-7413,Salesforce Inc,675.92,121.67,0.18,Hardware procurement and installation,2024-08-01 01:58:36.481350,0
+INV-1231,IBM Corporaton,15060.94,3036.18,0.20151393023200265,Various professional services,2025-06-14 01:58:36.497189,1
+INV-6250,Aple Inc,2322.63,418.07,0.18,Miscellaneous services and products,2024-10-03 01:58:36.481350,1
+INV-8070,Amazon Web Servces,6160.26,1108.85,0.18,Miscellaneous services and products,2025-05-07 01:58:36.481350,1
+INV-6721,Aple Inc,710.9,127.96,0.18,Miscellaneous services and products,2024-08-14 01:58:36.481350,1
+INV-1389,Aple Inc,28971.84,5214.93,0.18,General business expenses,2024-08-18 01:58:36.481350,1
+L1GYNOSN,Gogle LLC,27810.06,7996.92,0.2879750335663031,Miscellaneous services and products,2024-11-06 01:58:36.481350,1
+INV-1802,Oracl Corporation,12976.76,2335.82,0.18,Various professional services,2025-06-20 01:58:36.481350,1
+MOSDMUI0,Oracl Corporation,11843.15,1524.99,0.1297329065603836,Emergency maintenance work,2024-11-05 01:58:36.481350,1
+WRUZBZZH,IBM Corporaton,25000.0,1879.93,0.07612866936986577,Various professional services,2025-01-03 01:58:36.481350,1
+HAP7GG47,Oracl Corporation,1000.0,180.0,0.18,Miscellaneous services and products,2024-08-22 01:58:36.481350,1
+INV-8497,Apple Inc,6669.61,1200.53,0.18,Professional consulting services,2025-03-30 01:58:36.481350,0
+INV-4772,Apple Inc,8499.53,1529.92,0.18,Hardware procurement and installation,2025-03-12 01:58:36.481350,0
+INV-1808,Microsft Corp,5000.0,900.0,0.18,Miscellaneous services and products,2025-06-04 01:58:36.481350,1
+INV-5181,Amazon Web Servces,5000.0,900.0,0.18,General business expenses,2024-07-15 01:58:36.481350,1
+INV-1804,Microsft Corp,5616.3,1349.56,0.2437743101517048,General business expenses,2025-04-06 01:58:36.497189,1
+INV-6638,Microsft Corp,10000.0,1800.0,0.18,Various professional services,2025-05-02 01:58:36.497189,1
+INV-9774,Oracl Corporation,31471.82,5664.93,0.18,Miscellaneous services and products,2024-08-03 01:58:36.481350,1
+INV-9755,Oracl Corporation,35200.49,6336.09,0.18,Miscellaneous services and products,2024-08-14 01:58:36.481350,1
+INV-9391,Apple Inc,7351.06,1323.19,0.18,Software licensing and support services,2025-05-23 01:58:36.481350,0
+INV-3242,Salesforec Inc,41090.99,6293.84,0.1534404516131047,General business expenses,2025-03-16 01:58:36.481350,1
+AQSW1UJB,Salesforec Inc,25000.0,4500.0,0.18,Various professional services,2025-05-28 01:58:36.481350,1
+INV-6296,Amazon Web Services,548.3,98.69,0.18,Cloud computing services for Q1 2024,2025-04-25 01:58:36.481350,0
+INV-2760,Amazon Web Services,5051.68,909.3,0.18,Cloud computing services for Q1 2024,2024-12-17 01:58:36.481350,0
+INV-3110,Amazon Web Services,9132.19,1643.79,0.18,Professional consulting services,2024-08-26 01:58:36.481350,0
+INV-8823,IBM Corporation,1472.87,265.12,0.18,Professional consulting services,2025-05-16 01:58:36.481350,0
+7JYRTVH1,Oracl Corporation,5000.0,1094.7,0.22202761047470915,General business expenses,2024-10-08 01:58:36.481350,1
+INV-4274,Amazon Web Services,909.11,163.64,0.18,Hardware procurement and installation,2025-05-10 01:58:36.481350,0
+INV-9732,Apple Inc,5015.31,902.76,0.18,Hardware procurement and installation,2025-01-24 01:58:36.481350,0
+INV-3093,Microsoft Corp,7318.6,1317.35,0.18,Software licensing and support services,2024-11-04 01:58:36.481350,0
+INV-6522,Salesforec Inc,10000.0,1800.0,0.18,General business expenses,2025-03-10 01:58:36.481350,1
+INV-8095,Microsft Corp,43475.77,7825.64,0.18,Various professional services,2025-01-28 01:58:36.481350,1
+LFIFQQ2P,Aple Inc,5000.0,900.0,0.18,Miscellaneous services and products,2024-12-07 01:58:36.481350,1
+INV-4798,Gogle LLC,1000.0,176.29,0.19610131051742602,Various professional services,2025-07-10 01:58:36.481350,1
+INV-1096,IBM Corporation,8238.98,1483.02,0.18,Cloud computing services for Q1 2024,2025-01-25 01:58:36.481350,0
+INV-8828,Oracle Corporation,2052.78,369.5,0.18,Hardware procurement and installation,2025-07-10 01:58:36.481350,0
+INV-9461,Google LLC,3750.66,675.12,0.18,Software licensing and support services,2024-10-03 01:58:36.481350,0
+INV-8647,IBM Corporaton,7855.61,1414.01,0.18,Miscellaneous services and products,2024-12-14 01:58:36.481350,1
+INV-8305,Amazon Web Services,2558.75,460.57,0.18,Professional consulting services,2024-12-25 01:58:36.481350,0
+EH5CHRYR,Gogle LLC,36407.58,6553.36,0.18,Various professional services,2025-05-24 01:58:36.499205,1
+INV-5158,Salesforec Inc,10000.0,1800.0,0.18,Emergency maintenance work,2025-02-28 01:58:36.499205,1
+KX2ORNZ2,Aple Inc,593.53,106.84,0.18,Various professional services,2025-02-11 01:58:36.481350,1
+INV-3181,Microsoft Corp,8067.27,1452.11,0.18,Software licensing and support services,2024-08-05 01:58:36.481350,0
+INV-6130,IBM Corporation,9330.19,1679.43,0.18,Cloud computing services for Q1 2024,2024-12-12 01:58:36.481350,0
+INV-2723,Apple Inc,5340.4,961.27,0.18,Hardware procurement and installation,2025-01-16 01:58:36.481350,0
+INV-7505,Amazon Web Servces,26540.86,7289.69,0.2732425018189971,Emergency maintenance work,2024-07-29 01:58:36.481350,1
+INV-3806,Oracl Corporation,10000.0,1249.17,0.12951728115579925,Various professional services,2024-11-17 01:58:36.481350,1
+INV-7516,Apple Inc,9522.55,1714.06,0.18,Cloud computing services for Q1 2024,2025-05-13 01:58:36.481350,0
+INV-1727,Oracl Corporation,2404.31,357.42,0.15835613102018603,General business expenses,2025-06-23 01:58:36.481350,1
+BF88WXX4,IBM Corporaton,17906.56,1484.44,0.08089682148509807,Emergency maintenance work,2025-04-14 01:58:36.481350,1
+INV-6816,Amazon Web Services,4943.61,889.85,0.18,Software licensing and support services,2024-08-13 01:58:36.481350,0
+INV-7370,IBM Corporation,2624.82,472.47,0.18,Professional consulting services,2024-09-12 01:58:36.481350,0
+INV-3546,IBM Corporation,6559.82,1180.77,0.18,Professional consulting services,2025-06-16 01:58:36.481350,0
+INV-6249,Amazon Web Services,4955.18,891.93,0.18,Hardware procurement and installation,2025-03-21 01:58:36.481350,0
+INV-8701,Google LLC,5704.76,1026.86,0.18,Software licensing and support services,2025-05-13 01:58:36.481350,0
+INV-1153,Oracl Corporation,1737.07,312.67,0.18,Miscellaneous services and products,2024-11-17 01:58:36.481350,1
+INV-9592,Gogle LLC,40460.45,7282.88,0.18,Miscellaneous services and products,2024-10-06 01:58:36.481350,1
+INV-1363,Google LLC,3007.59,541.37,0.18,Hardware procurement and installation,2025-03-31 01:58:36.481350,0
+INV-1246,IBM Corporation,6431.66,1157.7,0.18,Hardware procurement and installation,2025-07-13 01:58:36.481350,0
+INV-6295,Salesforce Inc,2038.42,366.92,0.18,Software licensing and support services,2024-09-10 01:58:36.481350,0
+AORCWVR4,Salesforec Inc,25000.0,4500.0,0.18,Miscellaneous services and products,2025-05-10 01:58:36.481350,1
+YOCZCJS5,Gogle LLC,42023.31,10693.35,0.25363131946486217,General business expenses,2025-06-24 01:58:36.481350,1
+INV-1748,Apple Inc,3020.91,543.76,0.18,Cloud computing services for Q1 2024,2025-06-10 01:58:36.481350,0
+INV-9036,Aple Inc,36112.21,4683.32,0.12921040702033232,General business expenses,2024-10-09 01:58:36.481350,1
+INV-9417,Amazon Web Servces,19306.13,3475.1,0.18,Various professional services,2024-12-22 01:58:36.497189,1
+INV-4977,Microsft Corp,26187.18,4713.69,0.18,Emergency maintenance work,2024-11-13 01:58:36.499205,1
+INV-2841,Amazon Web Services,2121.02,381.78,0.18,Software licensing and support services,2025-01-24 01:58:36.465521,0
+INV-6427,Apple Inc,5984.4,1077.19,0.18,Professional consulting services,2025-03-30 01:58:36.481350,0
+5UMVF06K,Microsft Corp,5000.0,1294.39,0.2529012303536926,General business expenses,2025-04-21 01:58:36.481350,1
+INV-4092,Aple Inc,2192.04,394.57,0.18,Miscellaneous services and products,2024-11-23 01:58:36.481350,1
+INV-6734,Microsoft Corp,5000.33,900.06,0.18,Software licensing and support services,2024-07-23 01:58:36.481350,0
+INV-1882,IBM Corporaton,49935.8,8988.44,0.18,Emergency maintenance work,2025-03-30 01:58:36.481350,1
+INV-7407,Oracle Corporation,6697.59,1205.57,0.18,Cloud computing services for Q1 2024,2025-04-24 01:58:36.481350,0
+INV-7276,Aple Inc,18727.09,3403.16,0.18252109629872748,General business expenses,2025-03-29 01:58:36.481350,1
+HWFB1CA3,Salesforec Inc,38287.29,6891.71,0.18,Miscellaneous services and products,2025-06-05 01:58:36.497189,1
+INV-8378,Oracle Corporation,9468.38,1704.31,0.18,Professional consulting services,2024-07-26 01:58:36.481350,0
+INV-6970,Google LLC,8512.41,1532.23,0.18,Hardware procurement and installation,2025-05-26 01:58:36.481350,0
+INV-2887,Google LLC,1560.14,280.83,0.18,Cloud computing services for Q1 2024,2024-07-26 01:58:36.481350,0
+INV-7181,Oracle Corporation,5113.91,920.5,0.18,Software licensing and support services,2025-06-16 01:58:36.481350,0
+INV-8114,IBM Corporation,2696.1,485.3,0.18,Cloud computing services for Q1 2024,2025-01-17 01:58:36.481350,0
+INV-2005,IBM Corporation,1027.67,184.98,0.18,Cloud computing services for Q1 2024,2024-09-25 01:58:36.481350,0
+INV-4132,Gogle LLC,5000.0,900.0,0.18,Various professional services,2025-04-26 01:58:36.481350,1
+INV-8966,Apple Inc,431.93,77.75,0.18,Software licensing and support services,2024-11-11 01:58:36.481350,0
+INV-6638,IBM Corporation,6079.41,1094.29,0.18,Hardware procurement and installation,2024-08-16 01:58:36.481350,0
+INV-1331,Microsft Corp,28347.31,5653.02,0.20024907383129975,General business expenses,2025-05-07 01:58:36.499205,1
+INV-1977,Aple Inc,5036.22,906.52,0.18,Emergency maintenance work,2024-10-19 01:58:36.481350,1
+INV-8992,Amazon Web Servces,22620.9,4071.76,0.18,Emergency maintenance work,2024-11-20 01:58:36.481350,1
+INV-7724,Microsoft Corp,4737.01,852.66,0.18,Professional consulting services,2025-05-29 01:58:36.481350,0
+INV-3942,IBM Corporation,2307.65,415.38,0.18,Professional consulting services,2024-12-23 01:58:36.481350,0
+INV-9885,Amazon Web Servces,44286.5,12994.54,0.2927175681537145,Miscellaneous services and products,2025-01-26 01:58:36.497189,1
+INV-3407,IBM Corporaton,8964.06,1613.53,0.18,Miscellaneous services and products,2025-04-06 01:58:36.481350,1
+INV-2392,Gogle LLC,25000.0,3498.53,0.13805500003443727,Various professional services,2025-02-20 01:58:36.497189,1
+INV-9111,Amazon Web Services,9442.43,1699.64,0.18,Hardware procurement and installation,2024-08-01 01:58:36.481350,0
+INV-1249,Apple Inc,133.1,23.96,0.18,Cloud computing services for Q1 2024,2025-01-05 01:58:36.481350,0
+INV-8960,Salesforce Inc,9962.51,1793.25,0.18,Hardware procurement and installation,2025-03-24 01:58:36.481350,0
+KUP9QG1E,Microsft Corp,25000.0,4500.0,0.18,Emergency maintenance work,2024-12-16 01:58:36.481350,1
+INV-4077,Oracl Corporation,43258.18,5491.0,0.12715177246445386,Various professional services,2025-04-23 01:58:36.497189,1
+INV-9633,Salesforce Inc,5577.25,1003.9,0.18,Cloud computing services for Q1 2024,2025-01-30 01:58:36.481350,0
+INV-3633,IBM Corporaton,48264.53,8687.62,0.18,Miscellaneous services and products,2025-03-30 01:58:36.499205,1
+INV-8968,Amazon Web Services,4116.03,740.89,0.18,Cloud computing services for Q1 2024,2025-03-04 01:58:36.481350,0
+INV-7212,Amazon Web Servces,6942.92,1249.73,0.18,General business expenses,2025-03-05 01:58:36.499205,1
+INV-7369,IBM Corporaton,1000.0,199.27,0.15142146588423577,Miscellaneous services and products,2025-06-25 01:58:36.481350,1
+INV-6333,IBM Corporaton,18546.47,1741.3,0.09483109340992012,Miscellaneous services and products,2024-08-16 01:58:36.481350,1
+INV-3440,Amazon Web Services,2804.01,504.72,0.18,Hardware procurement and installation,2024-08-25 01:58:36.481350,0
+INV-6852,Oracle Corporation,2826.5,508.77,0.18,Cloud computing services for Q1 2024,2024-12-25 01:58:36.481350,0
+INV-4966,Gogle LLC,5000.0,1428.87,0.2903171196438093,General business expenses,2024-08-28 01:58:36.481350,1
+INV-4661,Google LLC,9746.11,1754.3,0.18,Hardware procurement and installation,2025-06-07 01:58:36.481350,0
+PBW4ZP0T,Amazon Web Servces,31523.18,5674.17,0.18,Miscellaneous services and products,2025-03-16 01:58:36.481350,1
+INV-1321,Microsoft Corp,1232.34,221.82,0.18,Software licensing and support services,2024-11-06 01:58:36.481350,0
+INV-6085,Google LLC,3382.04,608.77,0.18,Professional consulting services,2024-09-02 01:58:36.481350,0
+INV-6511,Oracl Corporation,23458.21,3368.51,0.14369571124871133,Miscellaneous services and products,2024-09-09 01:58:36.481350,1
+INV-5651,Microsft Corp,1000.0,126.27,0.09202661032390565,Various professional services,2024-09-01 01:58:36.481350,1
+INV-2166,IBM Corporation,126.71,22.81,0.18,Cloud computing services for Q1 2024,2024-09-26 01:58:36.481350,0
+INV-5740,Oracle Corporation,9344.56,1682.02,0.18,Cloud computing services for Q1 2024,2024-08-01 01:58:36.481350,0
+INV-8605,Salesforec Inc,12855.48,2313.99,0.18,Miscellaneous services and products,2024-08-01 01:58:36.481350,1
+INV-8682,Microsoft Corp,7204.46,1296.8,0.18,Software licensing and support services,2024-07-27 01:58:36.481350,0
+KG86YPTK,Microsft Corp,33301.08,7748.95,0.2324954584233987,Miscellaneous services and products,2025-06-19 01:58:36.481350,1
+INV-5560,Salesforce Inc,572.97,103.13,0.18,Cloud computing services for Q1 2024,2024-12-21 01:58:36.481350,0
+INV-7122,Aple Inc,12979.46,1609.17,0.12273710960521235,General business expenses,2025-04-29 01:58:36.481350,1
+INV-3693,Salesforce Inc,7107.17,1279.29,0.18,Hardware procurement and installation,2024-10-19 01:58:36.481350,0
+INV-6003,Microsoft Corp,4005.36,720.96,0.18,Cloud computing services for Q1 2024,2025-01-28 01:58:36.481350,0
+INV-6419,Microsft Corp,16408.75,3160.55,0.19103690227698372,Emergency maintenance work,2025-06-17 01:58:36.497189,1
+INV-1559,Gogle LLC,1154.48,207.81,0.18,Emergency maintenance work,2024-08-09 01:58:36.499205,1
+INV-2882,Amazon Web Services,4379.59,788.33,0.18,Cloud computing services for Q1 2024,2025-05-15 01:58:36.481350,0
+INV-7128,Oracle Corporation,4693.24,844.78,0.18,Cloud computing services for Q1 2024,2025-04-20 01:58:36.481350,0
+INV-6675,Oracl Corporation,1000.0,180.0,0.18,General business expenses,2025-06-26 01:58:36.481350,1
+INV-4937,IBM Corporaton,10000.0,1800.0,0.18,Various professional services,2025-05-09 01:58:36.481350,1
+INV-9037,Apple Inc,227.36,40.92,0.18,Hardware procurement and installation,2024-08-16 01:58:36.481350,0
+INV-4144,Salesforce Inc,5578.63,1004.15,0.18,Software licensing and support services,2025-02-21 01:58:36.481350,0
+INV-8603,Salesforec Inc,41805.77,3238.03,0.07692105997344569,General business expenses,2025-01-15 01:58:36.497189,1
+INV-3107,Amazon Web Services,7376.7,1327.81,0.18,Cloud computing services for Q1 2024,2024-07-20 01:58:36.481350,0
+INV-2585,Microsoft Corp,4382.14,788.79,0.18,Hardware procurement and installation,2024-09-23 01:58:36.481350,0
+INV-9344,Amazon Web Services,8075.88,1453.66,0.18,Hardware procurement and installation,2025-04-01 01:58:36.481350,0
+INV-8289,Apple Inc,4140.1,745.22,0.18,Professional consulting services,2025-03-11 01:58:36.481350,0
+INV-5187,Oracle Corporation,1921.28,345.83,0.18,Professional consulting services,2025-04-18 01:58:36.481350,0
+INV-2180,Salesforce Inc,8168.7,1470.37,0.18,Software licensing and support services,2024-11-23 01:58:36.481350,0
+E9RVIG42,Microsft Corp,1000.0,180.0,0.18,Emergency maintenance work,2025-01-09 01:58:36.481350,1
+INV-9249,Amazon Web Services,4793.54,862.84,0.18,Software licensing and support services,2024-11-10 01:58:36.481350,0
+INV-2288,Amazon Web Servces,5000.0,900.0,0.18,Various professional services,2025-03-13 01:58:36.481350,1
+S3JMLCCE,Oracl Corporation,9105.42,1638.98,0.18,General business expenses,2024-12-24 01:58:36.481350,1
+INV-3384,Amazon Web Services,1750.62,315.11,0.18,Professional consulting services,2024-12-10 01:58:36.481350,0
+INV-7894,IBM Corporaton,14070.77,2532.74,0.18,Emergency maintenance work,2024-12-16 01:58:36.481350,1
+INV-2520,Microsoft Corp,9217.45,1659.14,0.18,Professional consulting services,2025-03-24 01:58:36.481350,0
+INV-9349,Microsft Corp,26348.38,4742.71,0.18,Miscellaneous services and products,2025-01-22 01:58:36.481350,1
+INV-9646,Amazon Web Services,5667.73,1020.19,0.18,Hardware procurement and installation,2024-11-18 01:58:36.481350,0
+INV-8024,Microsft Corp,10000.0,2391.95,0.2354180739348392,Miscellaneous services and products,2024-07-18 01:58:36.497189,1
+INV-9241,Apple Inc,7341.41,1321.45,0.18,Professional consulting services,2025-03-01 01:58:36.481350,0
+INV-2597,Salesforce Inc,9984.51,1797.21,0.18,Cloud computing services for Q1 2024,2025-01-01 01:58:36.481350,0
+INV-9310,Gogle LLC,22507.23,1987.98,0.08706291857188665,General business expenses,2025-03-21 01:58:36.497189,1
+INV-8930,Salesforce Inc,1519.46,273.5,0.18,Software licensing and support services,2024-10-30 01:58:36.481350,0
+INV-7470,Amazon Web Servces,1269.37,139.67,0.09847738658911963,Emergency maintenance work,2024-09-29 01:58:36.481350,1
+INV-2091,Salesforce Inc,2988.47,537.92,0.18,Professional consulting services,2024-11-24 01:58:36.481350,0
+INV-1922,Apple Inc,3833.74,690.07,0.18,Software licensing and support services,2024-09-21 01:58:36.481350,0
+INV-3955,Oracl Corporation,2744.21,493.96,0.18,General business expenses,2024-11-14 01:58:36.481350,1
+INV-7586,Gogle LLC,7032.43,1265.84,0.18,Miscellaneous services and products,2024-10-18 01:58:36.481350,1
+ZCBXYY2Y,Oracl Corporation,10000.0,2244.77,0.22671695624792754,General business expenses,2024-10-09 01:58:36.497189,1
+INV-2710,IBM Corporaton,46180.94,8312.57,0.18,Miscellaneous services and products,2024-08-14 01:58:36.481350,1
+INV-1879,Microsoft Corp,1206.08,217.09,0.18,Professional consulting services,2024-11-02 01:58:36.481350,0
+8NPYQXP8,Salesforec Inc,49026.07,9662.88,0.1971312951259827,Emergency maintenance work,2024-11-21 01:58:36.497189,1
+INV-1340,Gogle LLC,45965.58,10011.67,0.21695319511857603,Emergency maintenance work,2025-01-05 01:58:36.481350,1
+AM584XGG,Gogle LLC,9422.79,1696.1,0.18,Miscellaneous services and products,2025-05-16 01:58:36.481350,1
+INV-7548,Amazon Web Servces,6708.8,972.69,0.13819730645637468,Various professional services,2025-06-16 01:58:36.481350,1
+48K5K446,Microsft Corp,48838.05,8790.85,0.18,Various professional services,2024-07-19 01:58:36.497189,1
+QDQ7R6N3,Amazon Web Servces,42479.53,7646.32,0.18,Miscellaneous services and products,2025-04-18 01:58:36.481350,1
+INV-3762,IBM Corporation,6860.7,1234.93,0.18,Professional consulting services,2025-07-11 01:58:36.481350,0
+INV-2085,Oracle Corporation,3877.86,698.01,0.18,Professional consulting services,2025-01-15 01:58:36.481350,0
+INV-6377,IBM Corporaton,5000.0,900.0,0.18,Emergency maintenance work,2024-10-04 01:58:36.481350,1
+INV-1746,Salesforce Inc,7732.55,1391.86,0.18,Professional consulting services,2024-11-27 01:58:36.481350,0
+INV-2847,Salesforce Inc,2919.97,525.59,0.18,Cloud computing services for Q1 2024,2024-09-08 01:58:36.481350,0
+INV-6300,Microsoft Corp,381.43,68.66,0.18,Software licensing and support services,2025-01-04 01:58:36.481350,0
+INV-1259,Oracl Corporation,10847.76,1952.6,0.18,Emergency maintenance work,2024-10-11 01:58:36.481350,1
+INV-6214,Microsft Corp,23881.53,4298.68,0.18,Miscellaneous services and products,2024-12-12 01:58:36.481350,1
+INV-7127,Salesforce Inc,475.18,85.53,0.18,Professional consulting services,2025-04-12 01:58:36.481350,0
+INV-5953,Gogle LLC,6151.82,1107.33,0.18,Various professional services,2024-08-20 01:58:36.497189,1
+INV-3636,Apple Inc,3431.19,617.61,0.18,Software licensing and support services,2024-10-17 01:58:36.481350,0
+ZZTOQYZC,Aple Inc,28839.7,5191.15,0.18,Miscellaneous services and products,2024-11-27 01:58:36.481350,1
+22T08336,IBM Corporaton,39308.36,7075.5,0.18,General business expenses,2024-12-13 01:58:36.481350,1
+INV-6987,Microsoft Corp,150.92,27.17,0.18,Software licensing and support services,2025-06-01 01:58:36.481350,0
+INV-3649,IBM Corporation,5492.56,988.66,0.18,Software licensing and support services,2024-08-25 01:58:36.481350,0
+INV-8832,Microsoft Corp,1422.33,256.02,0.18,Hardware procurement and installation,2024-09-30 01:58:36.481350,0
+INV-5102,Microsoft Corp,9980.46,1796.48,0.18,Professional consulting services,2024-08-03 01:58:36.481350,0
+SEBPNEV5,Aple Inc,5263.94,947.51,0.18,General business expenses,2025-07-07 01:58:36.481350,1
+INV-7175,Amazon Web Servces,34521.24,6213.82,0.18,Miscellaneous services and products,2024-10-25 01:58:36.481350,1
+INV-5957,Oracle Corporation,6538.8,1176.98,0.18,Software licensing and support services,2024-10-02 01:58:36.481350,0
+INV-4684,Microsoft Corp,1401.97,252.35,0.18,Cloud computing services for Q1 2024,2024-11-08 01:58:36.465521,0
+INV-7654,Oracle Corporation,1060.24,190.84,0.18,Software licensing and support services,2024-11-17 01:58:36.481350,0
+INV-9980,Aple Inc,4123.95,742.31,0.18,Various professional services,2024-11-15 01:58:36.499205,1
+7K0S5XT2,Amazon Web Servces,25000.0,4500.0,0.18,General business expenses,2024-11-11 01:58:36.481350,1
+3HMRKBGZ,Aple Inc,47442.19,8539.59,0.18,Emergency maintenance work,2025-04-18 01:58:36.481350,1
+INV-3109,IBM Corporation,9995.53,1799.2,0.18,Professional consulting services,2024-07-26 01:58:36.481350,0
+INV-1893,Google LLC,6191.82,1114.53,0.18,Professional consulting services,2024-08-20 01:58:36.481350,0
+INV-7861,Salesforce Inc,4025.95,724.67,0.18,Software licensing and support services,2025-03-17 01:58:36.481350,0
+INV-5921,IBM Corporation,1626.49,292.77,0.18,Cloud computing services for Q1 2024,2024-10-26 01:58:36.481350,0
+INV-8751,Salesforce Inc,2712.35,488.22,0.18,Cloud computing services for Q1 2024,2025-03-07 01:58:36.481350,0
+INV-9174,Salesforce Inc,6130.47,1103.48,0.18,Hardware procurement and installation,2024-12-30 01:58:36.481350,0
+INV-8533,Oracl Corporation,48986.38,3521.71,0.07177453803416788,Various professional services,2024-11-09 01:58:36.481350,1
+INV-2567,Microsoft Corp,4649.26,836.87,0.18,Software licensing and support services,2025-03-17 01:58:36.481350,0
+INV-2730,Apple Inc,9252.61,1665.47,0.18,Hardware procurement and installation,2024-12-02 01:58:36.481350,0
+INV-1171,IBM Corporation,6943.03,1249.75,0.18,Hardware procurement and installation,2024-12-15 01:58:36.481350,0
+INV-2635,Oracle Corporation,7570.01,1362.6,0.18,Cloud computing services for Q1 2024,2025-03-18 01:58:36.481350,0
+INV-2778,Oracle Corporation,6535.63,1176.41,0.18,Cloud computing services for Q1 2024,2024-12-26 01:58:36.481350,0
+VW9X82XD,Gogle LLC,14791.39,2997.01,0.2016624984370608,General business expenses,2025-04-15 01:58:36.481350,1
+1RQ3FH3D,Salesforec Inc,21784.31,3921.18,0.18,General business expenses,2024-09-05 01:58:36.481350,1
+INV-8006,Microsoft Corp,8583.43,1545.02,0.18,Software licensing and support services,2024-09-15 01:58:36.481350,0
+INV-7025,IBM Corporation,8195.38,1475.17,0.18,Professional consulting services,2024-08-24 01:58:36.481350,0
+INV-1025,Gogle LLC,2044.8,318.77,0.14005244025503522,General business expenses,2025-03-05 01:58:36.481350,1
+INV-8333,IBM Corporation,2255.43,405.98,0.18,Hardware procurement and installation,2024-09-02 01:58:36.481350,0
+INV-3638,Google LLC,1391.5,250.47,0.18,Cloud computing services for Q1 2024,2024-08-12 01:58:36.465521,0
+INV-8666,Microsoft Corp,8040.49,1447.29,0.18,Cloud computing services for Q1 2024,2024-07-22 01:58:36.481350,0
+INV-9638,Oracle Corporation,3198.14,575.67,0.18,Cloud computing services for Q1 2024,2024-11-10 01:58:36.481350,0
+INV-9876,Salesforce Inc,5982.37,1076.83,0.18,Cloud computing services for Q1 2024,2025-03-03 01:58:36.481350,0
+INV-1264,Amazon Web Services,2922.59,526.07,0.18,Cloud computing services for Q1 2024,2025-06-09 01:58:36.481350,0
+INV-7110,Google LLC,8469.72,1524.55,0.18,Cloud computing services for Q1 2024,2024-11-05 01:58:36.481350,0
+INV-9542,Salesforce Inc,3067.24,552.1,0.18,Software licensing and support services,2024-09-05 01:58:36.481350,0
+A6ISKIS6,Amazon Web Servces,22264.5,4007.61,0.18,Emergency maintenance work,2024-08-25 01:58:36.481350,1
+INV-9251,Salesforec Inc,26360.84,3064.41,0.11696308491986655,Miscellaneous services and products,2024-08-21 01:58:36.481350,1
+INV-6752,Oracle Corporation,3406.09,613.1,0.18,Software licensing and support services,2024-12-24 01:58:36.481350,0
+INV-3261,Salesforec Inc,5000.0,900.0,0.18,Miscellaneous services and products,2024-10-21 01:58:36.481350,1
+5R5ORUY0,Aple Inc,1544.58,131.67,0.08728975724035283,Miscellaneous services and products,2024-12-11 01:58:36.481350,1
+INV-3436,Gogle LLC,1000.0,180.0,0.18,Emergency maintenance work,2024-10-03 01:58:36.497189,1
+INV-4849,Oracl Corporation,10000.0,1800.0,0.18,General business expenses,2024-10-09 01:58:36.481350,1
+INV-2561,Amazon Web Services,3753.81,675.69,0.18,Professional consulting services,2025-04-09 01:58:36.481350,0
+INV-2075,Aple Inc,1000.0,180.0,0.18,Emergency maintenance work,2025-03-23 01:58:36.481350,1
+NSDTAJEC,Aple Inc,10000.0,1800.0,0.18,Miscellaneous services and products,2024-11-15 01:58:36.497189,1
+INV-4883,Microsft Corp,42026.81,7564.83,0.18,Miscellaneous services and products,2024-10-11 01:58:36.481350,1
+INV-9608,IBM Corporation,7637.94,1374.83,0.18,Hardware procurement and installation,2025-01-10 01:58:36.481350,0
+INV-1404,Salesforec Inc,7056.87,950.19,0.13422579098237902,Various professional services,2024-08-01 01:58:36.481350,1
+INV-7804,Oracle Corporation,7544.99,1358.1,0.18,Software licensing and support services,2025-01-26 01:58:36.481350,0
+INV-1516,Oracl Corporation,42325.69,7618.62,0.18,Various professional services,2024-10-01 01:58:36.481350,1
+INV-7468,Microsoft Corp,9505.26,1710.95,0.18,Software licensing and support services,2025-01-16 01:58:36.481350,0
+INV-1796,Gogle LLC,10000.0,1800.0,0.18,Various professional services,2025-03-26 01:58:36.481350,1
+M89A0I42,Oracl Corporation,22395.49,3240.48,0.14323753549823826,Various professional services,2025-01-27 01:58:36.481350,1
+INV-9290,Microsft Corp,19817.7,2530.48,0.13003591767040035,General business expenses,2024-11-24 01:58:36.497189,1
+INV-7284,Microsoft Corp,5115.89,920.86,0.18,Professional consulting services,2024-12-05 01:58:36.481350,0
+HQIRFL6A,Amazon Web Servces,626.15,112.71,0.18,Miscellaneous services and products,2024-10-11 01:58:36.481350,1
+INV-9954,Salesforce Inc,5821.36,1047.84,0.18,Professional consulting services,2024-09-11 01:58:36.481350,0
+INV-5537,IBM Corporaton,2390.69,430.32,0.18,Miscellaneous services and products,2025-03-09 01:58:36.481350,1
+INV-2287,IBM Corporaton,1000.0,180.0,0.18,Emergency maintenance work,2024-10-16 01:58:36.481350,1
+INV-8616,Apple Inc,4468.68,804.36,0.18,Professional consulting services,2024-12-19 01:58:36.481350,0
+INV-4274,Microsoft Corp,952.34,171.42,0.18,Cloud computing services for Q1 2024,2025-06-10 01:58:36.481350,0
+D6YTX1DL,Aple Inc,13670.58,2460.7,0.18,Miscellaneous services and products,2024-10-25 01:58:36.481350,1
+WS7BFJIG,Gogle LLC,48607.74,8749.39,0.18,Miscellaneous services and products,2025-03-16 01:58:36.481350,1
+INV-1068,Oracl Corporation,5000.0,1227.32,0.24955589208904927,Emergency maintenance work,2025-06-11 01:58:36.497189,1
+INV-4930,Salesforec Inc,25019.71,4503.55,0.18,Emergency maintenance work,2024-08-06 01:58:36.499205,1
+INV-9170,Salesforec Inc,1000.0,180.0,0.18,Various professional services,2025-03-18 01:58:36.497189,1
+INV-4504,Salesforce Inc,4459.53,802.72,0.18,Cloud computing services for Q1 2024,2024-09-01 01:58:36.481350,0
+4IDS8V4V,Oracl Corporation,26976.64,3803.94,0.14192694890784413,Emergency maintenance work,2024-10-22 01:58:36.481350,1
+INV-8138,IBM Corporation,9364.08,1685.53,0.18,Professional consulting services,2025-04-12 01:58:36.481350,0
+INV-9080,Salesforec Inc,1000.0,180.0,0.18,Emergency maintenance work,2024-09-21 01:58:36.481350,1
+INV-4099,Amazon Web Services,693.39,124.81,0.18,Cloud computing services for Q1 2024,2024-08-16 01:58:36.481350,0
+INV-4986,Oracl Corporation,21053.42,1688.76,0.0788636368298797,Miscellaneous services and products,2024-11-20 01:58:36.497189,1
+INV-3244,Oracle Corporation,7263.25,1307.38,0.18,Professional consulting services,2025-03-01 01:58:36.481350,0
+G4Y3P3UX,IBM Corporaton,36274.29,7735.95,0.21427316107577027,Various professional services,2025-02-04 01:58:36.497189,1
+FB75355P,Oracl Corporation,19918.41,3923.24,0.19734082658090402,Emergency maintenance work,2025-02-05 01:58:36.481350,1
+INV-5694,IBM Corporation,4071.6,732.89,0.18,Cloud computing services for Q1 2024,2025-04-23 01:58:36.481350,0
+INV-8545,Google LLC,4389.49,790.11,0.18,Software licensing and support services,2024-08-10 01:58:36.481350,0
+INV-8109,Microsft Corp,34820.69,6267.72,0.18,Miscellaneous services and products,2024-09-25 01:58:36.481350,1
+INV-9479,Google LLC,7184.24,1293.16,0.18,Hardware procurement and installation,2025-04-27 01:58:36.481350,0
+INV-1345,Oracl Corporation,3952.32,480.75,0.11644961585682427,Miscellaneous services and products,2025-02-13 01:58:36.499205,1
+INV-7220,Microsft Corp,5000.0,1436.23,0.2804070641185552,Miscellaneous services and products,2024-10-11 01:58:36.499205,1
+INV-1079,Amazon Web Servces,30729.01,3443.83,0.11326871224480252,Various professional services,2024-09-07 01:58:36.481350,1
+8917IRLQ,IBM Corporaton,48761.41,8777.05,0.18,Miscellaneous services and products,2025-03-17 01:58:36.499205,1
+68A1FXKI,Gogle LLC,7784.84,2195.36,0.27663281394826683,Emergency maintenance work,2025-04-19 01:58:36.497189,1
+INV-1577,Aple Inc,41675.87,7501.66,0.18,Emergency maintenance work,2024-09-10 01:58:36.481350,1
+INV-2105,Microsft Corp,41628.13,7493.06,0.18,Various professional services,2024-09-25 01:58:36.497189,1
+INV-4116,Gogle LLC,6757.22,1566.95,0.2359037232553579,General business expenses,2025-02-07 01:58:36.481350,1
+INV-8687,Microsft Corp,3978.49,716.13,0.18,Miscellaneous services and products,2024-12-11 01:58:36.481350,1
+INV-4843,Oracle Corporation,7096.04,1277.29,0.18,Cloud computing services for Q1 2024,2025-07-12 01:58:36.481350,0
+INV-2114,Apple Inc,3044.94,548.09,0.18,Hardware procurement and installation,2024-10-30 01:58:36.481350,0
+INV-7375,Microsoft Corp,7341.3,1321.43,0.18,Professional consulting services,2024-12-05 01:58:36.481350,0
+9M0H7DCQ,Salesforec Inc,29349.0,5282.82,0.18,Miscellaneous services and products,2025-04-11 01:58:36.481350,1
+INV-6131,Salesforce Inc,1646.11,296.3,0.18,Professional consulting services,2025-03-14 01:58:36.481350,0
+J3I9R3JP,Microsft Corp,40517.63,5968.18,0.14688211303823206,Miscellaneous services and products,2024-12-07 01:58:36.481350,1
+INV-1081,IBM Corporaton,25000.0,4500.0,0.18,General business expenses,2025-03-10 01:58:36.481350,1
+INV-1319,Amazon Web Servces,12940.81,1461.36,0.11371008410649212,Various professional services,2025-02-15 01:58:36.497189,1
+INV-7009,Microsoft Corp,9881.33,1778.64,0.18,Professional consulting services,2025-03-23 01:58:36.481350,0
+INV-9075,Amazon Web Servces,12928.8,3554.54,0.27201282953160894,General business expenses,2025-04-17 01:58:36.481350,1
+INV-9276,Apple Inc,1064.93,191.69,0.18,Software licensing and support services,2025-02-14 01:58:36.481350,0
+INV-6796,Oracle Corporation,2832.0,509.76,0.18,Software licensing and support services,2025-06-09 01:58:36.481350,0
+INV-5586,Oracle Corporation,1282.69,230.88,0.18,Cloud computing services for Q1 2024,2025-01-30 01:58:36.481350,0
+INV-8647,Microsft Corp,10031.81,2728.78,0.2744454023290052,Emergency maintenance work,2025-03-06 01:58:36.481350,1
+OBVWPPLN,Gogle LLC,34140.23,6145.24,0.18,Emergency maintenance work,2024-09-26 01:58:36.497189,1
+INV-5735,Google LLC,4193.15,754.77,0.18,Cloud computing services for Q1 2024,2025-07-05 01:58:36.481350,0
+INV-2078,Microsft Corp,40423.39,2035.82,0.05089040716742489,Various professional services,2024-12-12 01:58:36.499205,1
+INV-5249,Microsoft Corp,3013.18,542.37,0.18,Professional consulting services,2024-09-27 01:58:36.481350,0
+INV-8953,Apple Inc,8544.76,1538.06,0.18,Software licensing and support services,2024-12-22 01:58:36.481350,0
+INV-5620,Oracl Corporation,25925.91,4666.66,0.18,General business expenses,2025-06-09 01:58:36.497189,1
+INV-6698,Amazon Web Services,9006.14,1621.11,0.18,Professional consulting services,2024-10-10 01:58:36.481350,0
+INV-8985,Salesforce Inc,6419.26,1155.47,0.18,Professional consulting services,2024-09-07 01:58:36.481350,0
+QL3WY7GN,Amazon Web Servces,10000.0,1351.0,0.13057427933523652,Miscellaneous services and products,2024-11-06 01:58:36.481350,1
+INV-8650,Amazon Web Services,3166.27,569.93,0.18,Software licensing and support services,2024-12-02 01:58:36.481350,0
+INV-7056,Google LLC,1300.04,234.01,0.18,Cloud computing services for Q1 2024,2025-01-29 01:58:36.481350,0
+INV-2802,Oracl Corporation,46004.06,8280.73,0.18,Emergency maintenance work,2025-04-29 01:58:36.481350,1
+INV-9751,Microsft Corp,34718.29,6529.2,0.1892072166371716,Miscellaneous services and products,2025-03-20 01:58:36.481350,1
+INV-8788,IBM Corporation,8777.59,1579.97,0.18,Software licensing and support services,2024-12-16 01:58:36.481350,0
+4N533T5X,Salesforec Inc,49045.03,8828.11,0.18,General business expenses,2025-05-21 01:58:36.481350,1
+INV-7965,Oracl Corporation,2956.26,532.13,0.18,General business expenses,2024-12-17 01:58:36.497189,1
+INV-3530,Salesforce Inc,3987.83,717.81,0.18,Cloud computing services for Q1 2024,2024-08-27 01:58:36.481350,0
+T76QVYHP,Microsft Corp,10000.0,1800.0,0.18,Emergency maintenance work,2024-12-05 01:58:36.481350,1
+INV-2588,Oracl Corporation,31092.3,5596.61,0.18,Emergency maintenance work,2024-10-18 01:58:36.481350,1
+5WBSLU2D,Microsft Corp,3192.51,574.65,0.18,Miscellaneous services and products,2025-06-18 01:58:36.497189,1
+INV-5362,Oracle Corporation,641.77,115.52,0.18,Software licensing and support services,2024-08-06 01:58:36.481350,0
+INV-8815,Amazon Web Services,1442.98,259.74,0.18,Cloud computing services for Q1 2024,2025-03-14 01:58:36.481350,0
+INV-5150,Gogle LLC,26862.79,4835.3,0.18,General business expenses,2025-06-23 01:58:36.481350,1
+INV-5299,Microsoft Corp,7379.87,1328.38,0.18,Professional consulting services,2024-11-10 01:58:36.481350,0
+INV-8007,Microsft Corp,35464.33,6383.58,0.18,Miscellaneous services and products,2025-06-15 01:58:36.481350,1
+INV-1667,Amazon Web Servces,2034.79,366.26,0.18,Miscellaneous services and products,2025-06-02 01:58:36.499205,1
+INV-4076,Amazon Web Servces,27234.86,4902.27,0.18,General business expenses,2024-11-23 01:58:36.481350,1
+INV-7606,Microsoft Corp,381.59,68.69,0.18,Professional consulting services,2025-06-14 01:58:36.481350,0
+INV-2903,Oracle Corporation,454.69,81.84,0.18,Hardware procurement and installation,2025-04-18 01:58:36.481350,0
+INV-7626,Apple Inc,1398.51,251.73,0.18,Hardware procurement and installation,2025-03-05 01:58:36.481350,0
+N2EH6PRI,Aple Inc,25000.0,2624.74,0.10327930395162975,General business expenses,2024-12-09 01:58:36.497189,1
+INV-3404,Microsoft Corp,9807.13,1765.28,0.18,Professional consulting services,2025-02-13 01:58:36.481350,0
+INV-1431,Amazon Web Services,1342.19,241.59,0.18,Professional consulting services,2024-11-03 01:58:36.481350,0
+INV-5969,Oracle Corporation,1014.45,182.6,0.18,Cloud computing services for Q1 2024,2024-10-30 01:58:36.481350,0
+INV-9800,Google LLC,4837.93,870.83,0.18,Cloud computing services for Q1 2024,2025-03-26 01:58:36.481350,0
+INV-9554,Microsoft Corp,6989.54,1258.12,0.18,Professional consulting services,2025-07-01 01:58:36.481350,0
+INV-6880,Microsoft Corp,3269.73,588.55,0.18,Cloud computing services for Q1 2024,2024-07-25 01:58:36.481350,0
+IWB2XESE,Gogle LLC,47970.81,14149.02,0.2954329167715203,Miscellaneous services and products,2025-03-24 01:58:36.481350,1
+INV-3209,Microsoft Corp,5275.67,949.62,0.18,Professional consulting services,2024-09-05 01:58:36.481350,0
+INV-3136,Apple Inc,1902.54,342.46,0.18,Cloud computing services for Q1 2024,2024-07-18 01:58:36.481350,0
+INV-7926,IBM Corporaton,18463.31,3323.4,0.18,General business expenses,2025-02-11 01:58:36.481350,1
+INV-3600,Google LLC,4664.2,839.56,0.18,Software licensing and support services,2024-10-22 01:58:36.481350,0
+INV-7371,Oracl Corporation,30896.18,5561.31,0.18,Various professional services,2024-10-27 01:58:36.499205,1
+INV-7084,Amazon Web Services,8957.38,1612.33,0.18,Hardware procurement and installation,2024-10-17 01:58:36.481350,0
+INV-4592,Salesforec Inc,31109.62,5599.73,0.18,Various professional services,2024-12-26 01:58:36.481350,1
+9WSCKV2U,Gogle LLC,38285.18,7570.21,0.197874616109681,General business expenses,2025-02-21 01:58:36.499205,1
+LMEQI7O8,Amazon Web Servces,25000.0,4500.0,0.18,Miscellaneous services and products,2024-09-09 01:58:36.497189,1
+INV-5471,Amazon Web Services,3336.6,600.59,0.18,Hardware procurement and installation,2025-05-20 01:58:36.481350,0
+INV-6697,Microsft Corp,42178.27,7592.09,0.18,General business expenses,2025-07-10 01:58:36.481350,1
+INV-2141,Salesforec Inc,9766.34,2231.66,0.22550676971084055,Various professional services,2024-12-30 01:58:36.481350,1
+YU7ISV32,Aple Inc,1000.0,180.0,0.18,Various professional services,2025-06-14 01:58:36.497189,1
+INV-7210,IBM Corporation,4360.98,784.98,0.18,Cloud computing services for Q1 2024,2024-10-29 01:58:36.481350,0
+INV-6449,Salesforec Inc,22110.35,3979.86,0.18,Various professional services,2025-04-15 01:58:36.481350,1
+INV-7782,Amazon Web Services,4160.06,748.81,0.18,Software licensing and support services,2024-07-21 01:58:36.481350,0
+INV-5325,Microsoft Corp,5021.42,903.86,0.18,Cloud computing services for Q1 2024,2024-12-17 01:58:36.481350,0
+INV-5991,Salesforce Inc,6531.32,1175.64,0.18,Software licensing and support services,2025-06-01 01:58:36.481350,0
+I0SWW2IM,Salesforec Inc,12055.03,2853.12,0.23768207228936855,General business expenses,2024-11-04 01:58:36.481350,1
+INV-5127,Amazon Web Servces,40852.71,7353.49,0.18,Emergency maintenance work,2024-11-29 01:58:36.481350,1
+INV-6951,Google LLC,869.95,156.59,0.18,Professional consulting services,2025-03-14 01:58:36.481350,0
+INV-2036,Aple Inc,46672.41,11069.32,0.23682211075925003,Miscellaneous services and products,2025-06-13 01:58:36.481350,1
+INV-3391,Amazon Web Services,4987.07,897.67,0.18,Professional consulting services,2024-12-26 01:58:36.481350,0
+1X6TTAFM,Amazon Web Servces,46932.72,12801.96,0.2726411778491969,Various professional services,2025-04-30 01:58:36.497189,1
+7PS62LPK,Gogle LLC,5000.0,900.0,0.18,Miscellaneous services and products,2025-03-23 01:58:36.481350,1
+INV-1442,IBM Corporation,742.28,133.61,0.18,Cloud computing services for Q1 2024,2025-03-31 01:58:36.481350,0
+INV-5677,Salesforce Inc,1192.52,214.65,0.18,Software licensing and support services,2025-03-10 01:58:36.481350,0
+INV-5119,Google LLC,8522.73,1534.09,0.18,Cloud computing services for Q1 2024,2024-08-03 01:58:36.481350,0
+HVKY48BN,Gogle LLC,41027.88,7385.02,0.18,General business expenses,2025-05-05 01:58:36.481350,1
+INV-1563,Salesforec Inc,5377.79,347.72,0.07177481718824487,Emergency maintenance work,2025-03-07 01:58:36.481350,1
+INV-5429,Microsft Corp,32999.94,5939.99,0.18,Miscellaneous services and products,2024-11-01 01:58:36.481350,1
+INV-7875,Oracle Corporation,7268.05,1308.25,0.18,Software licensing and support services,2024-07-17 01:58:36.481350,0
+INV-6039,Gogle LLC,16308.18,2935.47,0.18,Emergency maintenance work,2025-01-01 01:58:36.497189,1
+INV-1592,Aple Inc,1000.0,180.0,0.18,Miscellaneous services and products,2025-01-05 01:58:36.497189,1
+INV-4877,IBM Corporation,3907.38,703.33,0.18,Cloud computing services for Q1 2024,2025-02-13 01:58:36.481350,0
+INV-4762,Amazon Web Servces,24726.0,4450.68,0.18,Emergency maintenance work,2024-10-09 01:58:36.481350,1
+INV-7350,Aple Inc,1155.54,208.0,0.18,Miscellaneous services and products,2025-04-28 01:58:36.481350,1
+INV-9204,Salesforce Inc,6831.64,1229.7,0.18,Software licensing and support services,2024-10-29 01:58:36.481350,0
+INV-3772,Oracle Corporation,1696.87,305.44,0.18,Cloud computing services for Q1 2024,2024-10-07 01:58:36.481350,0
+INV-4452,Gogle LLC,36262.89,6527.32,0.18,Emergency maintenance work,2024-11-04 01:58:36.481350,1
+INV-8069,Microsft Corp,13171.35,3009.03,0.22853307657111205,Miscellaneous services and products,2025-03-23 01:58:36.481350,1
+INV-7070,IBM Corporaton,39915.41,7184.77,0.18,Emergency maintenance work,2024-12-25 01:58:36.481350,1
+INV-6185,Oracle Corporation,7863.35,1415.4,0.18,Software licensing and support services,2024-09-03 01:58:36.481350,0
+TLK8B92Q,IBM Corporaton,29162.1,2370.17,0.08147400125405331,Miscellaneous services and products,2024-12-30 01:58:36.481350,1
+3B93YF6H,IBM Corporaton,16723.58,1781.04,0.1078635868731012,Emergency maintenance work,2025-05-27 01:58:36.497189,1
+INV-4705,Microsft Corp,25000.0,3773.99,0.15275544081191617,Emergency maintenance work,2024-09-08 01:58:36.481350,1
+INV-6890,Gogle LLC,48515.53,8732.8,0.18,General business expenses,2025-01-07 01:58:36.481350,1
+INV-8327,Oracl Corporation,19600.9,3528.16,0.18,Emergency maintenance work,2025-07-12 01:58:36.497189,1
+INV-9419,Microsoft Corp,4564.4,821.59,0.18,Cloud computing services for Q1 2024,2025-06-02 01:58:36.481350,0
+INV-7737,Aple Inc,134.27,48.23,0.2110531699979184,Emergency maintenance work,2024-11-15 01:58:36.497189,1
+INV-6751,Gogle LLC,5000.0,900.0,0.18,Various professional services,2024-08-12 01:58:36.481350,1
+INV-4769,IBM Corporation,1484.48,267.21,0.18,Hardware procurement and installation,2024-10-20 01:58:36.481350,0
+INV-6019,Microsoft Corp,4193.97,754.91,0.18,Professional consulting services,2025-01-03 01:58:36.481350,0
+3OCS38E6,Gogle LLC,2731.2,245.52,0.07818814696856229,Miscellaneous services and products,2024-08-19 01:58:36.499205,1
+INV-4364,Apple Inc,2744.91,494.08,0.18,Hardware procurement and installation,2025-05-15 01:58:36.481350,0
+INV-7587,Google LLC,8005.48,1440.99,0.18,Cloud computing services for Q1 2024,2024-10-31 01:58:36.481350,0
+INV-9342,Salesforec Inc,25667.68,4620.18,0.18,Various professional services,2025-07-12 01:58:36.481350,1
+INV-1316,Microsft Corp,46178.54,8608.24,0.18620479221156921,Various professional services,2025-03-09 01:58:36.497189,1
+INV-4219,Apple Inc,422.91,76.12,0.18,Hardware procurement and installation,2024-12-07 01:58:36.481350,0
+INV-8059,IBM Corporation,7464.48,1343.61,0.18,Software licensing and support services,2024-10-20 01:58:36.481350,0
+INV-5404,Microsft Corp,16891.22,3040.42,0.18,Various professional services,2025-02-14 01:58:36.497189,1
+JMBV33MN,Oracl Corporation,16744.83,3014.07,0.18,Various professional services,2025-01-20 01:58:36.497189,1
+INV-1777,Microsoft Corp,551.57,99.28,0.18,Professional consulting services,2025-01-07 01:58:36.481350,0
+INV-6479,Salesforce Inc,495.16,89.13,0.18,Professional consulting services,2024-10-19 01:58:36.481350,0
+INV-4658,Microsft Corp,10000.0,1568.35,0.1535347819959763,Various professional services,2025-04-09 01:58:36.481350,1
+INV-5729,IBM Corporation,5856.28,1054.13,0.18,Software licensing and support services,2024-10-05 01:58:36.481350,0
+INV-2961,Aple Inc,18891.0,3400.38,0.18,Emergency maintenance work,2024-11-06 01:58:36.481350,1
+INV-2794,Oracle Corporation,3079.45,554.3,0.18,Cloud computing services for Q1 2024,2025-06-24 01:58:36.481350,0
+3BXJRPIM,Gogle LLC,9880.18,1778.43,0.18,Miscellaneous services and products,2025-07-07 01:58:36.481350,1
+INV-3689,Amazon Web Services,2904.67,522.84,0.18,Hardware procurement and installation,2025-06-01 01:58:36.481350,0
+INV-1615,Salesforce Inc,4145.32,746.16,0.18,Cloud computing services for Q1 2024,2024-12-05 01:58:36.481350,0
+INV-2594,Amazon Web Servces,1000.0,239.18,0.24321364389760208,General business expenses,2025-03-19 01:58:36.481350,1
+MB9GT0JX,Amazon Web Servces,4020.88,723.76,0.18,General business expenses,2025-04-29 01:58:36.499205,1
+INV-2405,Google LLC,4087.11,735.68,0.18,Cloud computing services for Q1 2024,2025-03-29 01:58:36.481350,0
+INV-7779,Amazon Web Services,8433.24,1517.98,0.18,Software licensing and support services,2025-02-10 01:58:36.481350,0
+INV-4531,Microsoft Corp,9223.66,1660.26,0.18,Software licensing and support services,2024-09-09 01:58:36.481350,0
+INV-8472,Microsoft Corp,5842.19,1051.59,0.18,Cloud computing services for Q1 2024,2024-11-20 01:58:36.481350,0
+INV-4641,Gogle LLC,17558.29,2343.79,0.13365252790855986,Various professional services,2025-05-04 01:58:36.481350,1
+INV-8383,Apple Inc,6209.0,1117.62,0.18,Professional consulting services,2024-08-09 01:58:36.481350,0
+INV-3712,Oracle Corporation,2649.4,476.89,0.18,Cloud computing services for Q1 2024,2024-07-19 01:58:36.481350,0
+INV-4913,IBM Corporation,7575.08,1363.51,0.18,Software licensing and support services,2024-11-06 01:58:36.481350,0
+INV-3158,Amazon Web Servces,5000.0,1238.5,0.2413483446225172,Emergency maintenance work,2024-08-24 01:58:36.481350,1
+INV-7499,Amazon Web Services,2177.89,392.02,0.18,Software licensing and support services,2025-01-11 01:58:36.465521,0
+INV-8045,IBM Corporaton,11143.53,2005.84,0.18,General business expenses,2024-12-23 01:58:36.481350,1
+INV-7002,Microsoft Corp,2186.95,393.65,0.18,Professional consulting services,2025-03-06 01:58:36.481350,0
+INV-8323,Salesforce Inc,5095.13,917.12,0.18,Cloud computing services for Q1 2024,2024-12-05 01:58:36.481350,0
+INV-1082,IBM Corporaton,5859.33,1054.68,0.18,Various professional services,2025-01-22 01:58:36.499205,1
+INV-9970,Amazon Web Servces,39493.67,7108.86,0.18,Emergency maintenance work,2025-01-25 01:58:36.481350,1
+INV-9950,IBM Corporation,7783.8,1401.08,0.18,Software licensing and support services,2025-06-06 01:58:36.481350,0
+INV-1075,IBM Corporation,6915.61,1244.81,0.18,Cloud computing services for Q1 2024,2024-11-13 01:58:36.481350,0
+INV-8847,Amazon Web Services,9126.53,1642.78,0.18,Software licensing and support services,2024-10-11 01:58:36.481350,0
+INV-6059,Amazon Web Servces,28767.6,5396.83,0.18814007203266825,Miscellaneous services and products,2024-08-22 01:58:36.481350,1
+INV-9345,IBM Corporaton,1000.0,41.08,0.07412415179596747,Various professional services,2024-10-15 01:58:36.497189,1
+INV-1399,Oracle Corporation,4870.09,876.62,0.18,Professional consulting services,2025-01-06 01:58:36.481350,0
+INV-1683,IBM Corporaton,15902.41,2761.02,0.17234618128833995,General business expenses,2024-08-01 01:58:36.497189,1
+INV-5098,Gogle LLC,1000.0,180.0,0.18,Various professional services,2025-06-09 01:58:36.481350,1
+INV-8734,IBM Corporaton,5000.0,1372.84,0.27211711957649165,General business expenses,2024-09-19 01:58:36.481350,1
+INV-5603,Microsoft Corp,1375.55,247.6,0.18,Software licensing and support services,2024-11-02 01:58:36.481350,0
+INV-5889,IBM Corporation,8657.83,1558.41,0.18,Hardware procurement and installation,2025-03-22 01:58:36.481350,0
+INV-3967,Microsoft Corp,2581.75,464.71,0.18,Hardware procurement and installation,2024-10-20 01:58:36.481350,0
+INV-3474,Salesforce Inc,3342.18,601.59,0.18,Professional consulting services,2024-12-23 01:58:36.481350,0
+INV-8965,Amazon Web Services,7067.92,1272.23,0.18,Professional consulting services,2025-01-17 01:58:36.481350,0
+INV-6939,Amazon Web Servces,19962.87,3593.32,0.18,Various professional services,2024-12-22 01:58:36.481350,1
+INV-5348,IBM Corporation,7050.55,1269.1,0.18,Cloud computing services for Q1 2024,2025-02-27 01:58:36.481350,0
+EPZGV40O,Gogle LLC,8823.23,1757.25,0.19549390950076667,General business expenses,2024-11-13 01:58:36.481350,1
+INV-7360,Oracl Corporation,35926.41,6466.75,0.18,General business expenses,2024-09-25 01:58:36.481350,1
+INV-3719,Salesforce Inc,3368.57,606.34,0.18,Hardware procurement and installation,2024-10-15 01:58:36.481350,0
+INV-2241,Microsoft Corp,5794.82,1043.07,0.18,Hardware procurement and installation,2025-01-10 01:58:36.481350,0
+INV-1812,Google LLC,2396.92,431.45,0.18,Cloud computing services for Q1 2024,2024-12-29 01:58:36.481350,0
+INV-6368,Apple Inc,2067.24,372.1,0.18,Cloud computing services for Q1 2024,2024-09-10 01:58:36.481350,0
+INV-4187,Apple Inc,1279.88,230.38,0.18,Professional consulting services,2024-12-22 01:58:36.481350,0
+INV-4761,Apple Inc,7368.22,1326.28,0.18,Professional consulting services,2024-11-05 01:58:36.481350,0
+INV-3820,Google LLC,4463.16,803.37,0.18,Software licensing and support services,2025-01-06 01:58:36.481350,0
+INV-9119,IBM Corporation,6744.63,1214.03,0.18,Hardware procurement and installation,2024-08-26 01:58:36.481350,0
+INV-3218,Salesforec Inc,32843.09,5911.76,0.18,Miscellaneous services and products,2025-01-28 01:58:36.497189,1
+INV-4449,Gogle LLC,44773.32,5044.7,0.11280584864319156,Emergency maintenance work,2024-12-25 01:58:36.497189,1
+YI70RP7B,Amazon Web Servces,2731.24,383.74,0.1496170606526474,Miscellaneous services and products,2024-09-09 01:58:36.497189,1
+INV-1782,Aple Inc,24327.27,4378.91,0.18,Emergency maintenance work,2024-07-22 01:58:36.481350,1
+INV-4770,Apple Inc,9008.07,1621.45,0.18,Cloud computing services for Q1 2024,2025-05-29 01:58:36.481350,0
+INV-1928,IBM Corporation,7764.22,1397.56,0.18,Software licensing and support services,2025-06-23 01:58:36.481350,0
+DTOMT9LK,Aple Inc,1000.0,192.16,0.14434841943373689,General business expenses,2025-03-30 01:58:36.481350,1
+INV-8429,Oracle Corporation,8828.98,1589.22,0.18,Hardware procurement and installation,2025-03-28 01:58:36.465521,0
+INV-4843,Google LLC,8387.0,1509.66,0.18,Hardware procurement and installation,2025-06-08 01:58:36.481350,0
+INV-9239,Salesforce Inc,8049.9,1448.98,0.18,Software licensing and support services,2024-07-28 01:58:36.481350,0
+INV-6449,Microsoft Corp,4945.4,890.17,0.18,Hardware procurement and installation,2025-04-19 01:58:36.481350,0
+INV-3506,Microsoft Corp,5836.06,1050.49,0.18,Professional consulting services,2024-09-18 01:58:36.481350,0
+INV-2762,Google LLC,6159.38,1108.69,0.18,Professional consulting services,2024-09-22 01:58:36.481350,0
+INV-5439,Microsoft Corp,8807.21,1585.3,0.18,Software licensing and support services,2024-12-18 01:58:36.481350,0
+INV-5623,Apple Inc,8967.15,1614.09,0.18,Cloud computing services for Q1 2024,2025-03-08 01:58:36.481350,0
+INV-9085,IBM Corporaton,21305.24,3834.94,0.18,General business expenses,2025-05-19 01:58:36.481350,1
+64P1B9BI,Salesforec Inc,32703.63,5886.65,0.18,General business expenses,2025-07-03 01:58:36.481350,1
+INV-7639,Oracl Corporation,19350.77,3483.14,0.18,Miscellaneous services and products,2025-04-27 01:58:36.499205,1
+INV-4594,IBM Corporation,3929.63,707.33,0.18,Professional consulting services,2025-04-28 01:58:36.481350,0
+INV-4698,Apple Inc,9026.01,1624.68,0.18,Professional consulting services,2025-05-20 01:58:36.481350,0
+INV-7541,Gogle LLC,1000.0,180.0,0.18,Emergency maintenance work,2025-07-04 01:58:36.481350,1
+INV-6425,IBM Corporaton,47467.8,8544.2,0.18,Various professional services,2025-05-04 01:58:36.481350,1
+JJS7DXGE,Oracl Corporation,5000.0,699.76,0.13080384029314424,General business expenses,2024-10-02 01:58:36.481350,1
+INV-2293,Aple Inc,26019.84,5724.29,0.22082216765903806,Various professional services,2025-01-24 01:58:36.481350,1
+INV-8166,Gogle LLC,5000.0,550.59,0.10396556699678657,Various professional services,2024-10-22 01:58:36.481350,1
+GDUL2XT4,Microsft Corp,42194.47,9055.07,0.21565357246271705,Miscellaneous services and products,2025-06-19 01:58:36.481350,1
+INV-6961,Google LLC,255.54,46.0,0.18,Software licensing and support services,2025-02-13 01:58:36.481350,0
+GI0VUI9S,Amazon Web Servces,18113.67,3260.46,0.18,Various professional services,2025-03-22 01:58:36.481350,1
+1JV6RAAO,Salesforec Inc,5000.0,900.0,0.18,Emergency maintenance work,2025-04-08 01:58:36.481350,1
+INV-6247,Aple Inc,15834.67,2850.24,0.18,Miscellaneous services and products,2024-11-17 01:58:36.481350,1
+INV-1941,Google LLC,4534.85,816.27,0.18,Professional consulting services,2024-07-23 01:58:36.481350,0
+INV-5344,Microsoft Corp,8029.57,1445.32,0.18,Cloud computing services for Q1 2024,2024-10-07 01:58:36.481350,0
+INV-5688,IBM Corporaton,3720.49,669.69,0.18,Miscellaneous services and products,2024-08-23 01:58:36.481350,1
+INV-9350,Amazon Web Services,9705.19,1746.93,0.18,Software licensing and support services,2024-08-28 01:58:36.481350,0
+INV-5955,Amazon Web Services,9480.41,1706.47,0.18,Software licensing and support services,2025-04-07 01:58:36.481350,0
+INV-6374,Microsft Corp,16827.75,3028.99,0.18,Various professional services,2024-10-03 01:58:36.481350,1
+ZI2N6T2K,Microsft Corp,1000.0,180.0,0.18,General business expenses,2025-05-05 01:58:36.481350,1
+INV-9474,Microsft Corp,38011.47,4974.25,0.13189087722885506,Various professional services,2025-07-01 01:58:36.481350,1
+9T7INSRI,Microsft Corp,1000.0,71.24,0.11286594663433629,General business expenses,2024-07-18 01:58:36.481350,1
+A7G3922R,Oracl Corporation,19942.99,987.79,0.050817180708234364,Miscellaneous services and products,2025-07-11 01:58:36.481350,1
+ORLC959I,Salesforec Inc,10000.0,1800.0,0.18,Miscellaneous services and products,2024-08-06 01:58:36.481350,1
+INV-8513,Amazon Web Servces,5000.0,900.0,0.18,Emergency maintenance work,2025-03-29 01:58:36.481350,1
+1D1SQRUH,IBM Corporaton,15060.2,2337.5,0.15343149597271227,Various professional services,2024-07-22 01:58:36.481350,1
+INV-3311,Google LLC,6875.11,1237.52,0.18,Hardware procurement and installation,2025-06-10 01:58:36.481350,0
+PH1CIZM8,Salesforec Inc,5000.0,581.75,0.11558500235780224,Miscellaneous services and products,2025-05-20 01:58:36.481350,1
+INV-1984,Oracle Corporation,7113.72,1280.47,0.18,Cloud computing services for Q1 2024,2025-07-08 01:58:36.481350,0
+INV-5852,Aple Inc,45232.34,8141.82,0.18,Emergency maintenance work,2025-03-01 01:58:36.481350,1
+INV-2686,Google LLC,5913.77,1064.48,0.18,Hardware procurement and installation,2025-01-11 01:58:36.481350,0
+INV-1055,Aple Inc,15316.94,2757.05,0.18,Emergency maintenance work,2025-05-10 01:58:36.497189,1
+INV-8201,Aple Inc,45872.7,8257.09,0.18,Emergency maintenance work,2025-06-26 01:58:36.481350,1
+INV-6411,Microsoft Corp,1076.39,193.75,0.18,Cloud computing services for Q1 2024,2024-11-19 01:58:36.481350,0
+INV-6458,Microsoft Corp,8566.12,1541.9,0.18,Software licensing and support services,2025-03-12 01:58:36.481350,0
+INV-1919,Oracle Corporation,9094.16,1636.95,0.18,Professional consulting services,2025-06-17 01:58:36.481350,0
+INV-2235,Amazon Web Servces,20542.55,3697.66,0.18,Miscellaneous services and products,2025-03-17 01:58:36.481350,1
+INV-2205,Amazon Web Services,9987.57,1797.76,0.18,Cloud computing services for Q1 2024,2025-06-26 01:58:36.481350,0
+K5WBITTB,Gogle LLC,24138.85,4344.99,0.18,Emergency maintenance work,2024-09-04 01:58:36.481350,1
+INV-4388,Microsoft Corp,6794.19,1222.95,0.18,Professional consulting services,2025-05-19 01:58:36.481350,0
+INV-1606,Amazon Web Services,2105.21,378.94,0.18,Cloud computing services for Q1 2024,2025-02-20 01:58:36.481350,0
+INV-2386,Aple Inc,44150.11,7947.02,0.18,Various professional services,2025-01-17 01:58:36.481350,1
+INV-3236,Amazon Web Servces,5752.38,1035.43,0.18,Various professional services,2025-05-17 01:58:36.481350,1
+3V611985,Gogle LLC,31550.82,7207.5,0.22818139654912467,General business expenses,2025-02-02 01:58:36.481350,1
+7Q07XIK4,Aple Inc,30911.47,5564.06,0.18,Miscellaneous services and products,2025-07-07 01:58:36.481350,1
+INV-2276,Apple Inc,1710.06,307.81,0.18,Professional consulting services,2025-05-15 01:58:36.481350,0
+INV-7726,Oracl Corporation,25000.0,4500.0,0.18,Emergency maintenance work,2024-10-27 01:58:36.481350,1
+INV-4195,IBM Corporaton,35629.1,6413.24,0.18,Various professional services,2025-01-21 01:58:36.497189,1
+INV-6435,Google LLC,9481.96,1706.75,0.18,Hardware procurement and installation,2024-11-04 01:58:36.481350,0
+INV-3945,Oracle Corporation,5293.28,952.79,0.18,Cloud computing services for Q1 2024,2025-03-04 01:58:36.481350,0
+INV-7908,Google LLC,134.26,24.17,0.18,Professional consulting services,2024-09-23 01:58:36.481350,0
+ND5P78E3,Aple Inc,5000.0,900.0,0.18,Emergency maintenance work,2024-12-11 01:58:36.481350,1
+INV-9576,Aple Inc,25000.0,7369.56,0.2933946352830389,General business expenses,2024-11-18 01:58:36.497189,1
+INV-7592,Salesforec Inc,3075.8,553.64,0.18,Various professional services,2024-12-09 01:58:36.481350,1
+INV-7682,Amazon Web Services,3288.79,591.98,0.18,Hardware procurement and installation,2025-05-07 01:58:36.481350,0
+INV-8495,Oracl Corporation,38265.84,10271.47,0.2674507150598868,Miscellaneous services and products,2024-07-27 01:58:36.497189,1
+INV-6729,Oracl Corporation,18601.12,3348.2,0.18,Emergency maintenance work,2024-08-11 01:58:36.481350,1
+INV-8013,Salesforce Inc,5820.89,1047.76,0.18,Hardware procurement and installation,2025-06-06 01:58:36.481350,0
+INV-4086,Microsoft Corp,4122.04,741.97,0.18,Professional consulting services,2024-09-02 01:58:36.481350,0
+UDXN7TEX,IBM Corporaton,26143.67,7721.93,0.29716673827751805,General business expenses,2025-05-28 01:58:36.499205,1
+INV-3972,IBM Corporaton,48622.42,8752.04,0.18,Emergency maintenance work,2025-06-02 01:58:36.481350,1
+8409JEJ7,Aple Inc,2573.34,463.2,0.18,Miscellaneous services and products,2024-07-22 01:58:36.497189,1
+INV-1581,Oracl Corporation,38299.44,4394.62,0.11527801188147206,General business expenses,2025-01-05 01:58:36.481350,1
+LWDT88X0,Salesforec Inc,25000.0,4500.0,0.18,Various professional services,2025-04-15 01:58:36.481350,1
+INV-8137,Google LLC,4136.29,744.53,0.18,Software licensing and support services,2025-01-15 01:58:36.481350,0
+INV-9382,Amazon Web Services,7834.84,1410.27,0.18,Cloud computing services for Q1 2024,2025-04-20 01:58:36.481350,0
+INV-6890,Oracl Corporation,34092.82,4129.82,0.12050599944779695,Miscellaneous services and products,2024-10-24 01:58:36.481350,1
+O0GP2P3B,Aple Inc,49697.62,8394.15,0.1690604239603477,Miscellaneous services and products,2025-05-18 01:58:36.497189,1
+INV-8979,Apple Inc,6366.42,1145.96,0.18,Hardware procurement and installation,2024-12-07 01:58:36.481350,0
+INV-8905,Oracle Corporation,5680.28,1022.45,0.18,Professional consulting services,2025-06-20 01:58:36.481350,0
+INV-4489,Microsoft Corp,7835.98,1410.48,0.18,Cloud computing services for Q1 2024,2025-04-13 01:58:36.481350,0
+INV-2832,Amazon Web Services,589.91,106.18,0.18,Professional consulting services,2024-10-02 01:58:36.481350,0
+INV-8516,Salesforce Inc,3811.95,686.15,0.18,Hardware procurement and installation,2024-12-25 01:58:36.481350,0
+INV-9551,IBM Corporation,6537.56,1176.76,0.18,Professional consulting services,2025-03-01 01:58:36.481350,0
+INV-7486,IBM Corporaton,49622.46,10016.5,0.20100225737018618,Miscellaneous services and products,2024-12-27 01:58:36.481350,1
+INV-2325,Amazon Web Servces,25000.0,4500.0,0.18,Miscellaneous services and products,2024-10-24 01:58:36.481350,1
+BH4Y2Y4A,Oracl Corporation,42373.53,7627.24,0.18,General business expenses,2024-09-03 01:58:36.481350,1
+INV-1415,Oracle Corporation,7160.26,1288.85,0.18,Software licensing and support services,2025-03-01 01:58:36.481350,0
+INV-8890,Microsft Corp,25000.0,2143.31,0.087063867551,Miscellaneous services and products,2024-08-19 01:58:36.497189,1
+INV-2605,IBM Corporation,5033.8,906.08,0.18,Professional consulting services,2025-05-02 01:58:36.481350,0
+INV-7623,Oracl Corporation,19886.22,1261.56,0.06428144277413743,General business expenses,2024-12-10 01:58:36.481350,1
+INV-3624,Amazon Web Services,7523.23,1354.18,0.18,Professional consulting services,2025-01-17 01:58:36.481350,0
+INV-7418,Salesforec Inc,17124.59,3346.79,0.19386118140001124,Various professional services,2025-07-08 01:58:36.481350,1
+INV-4948,Oracle Corporation,413.43,74.42,0.18,Professional consulting services,2025-05-15 01:58:36.481350,0
+INV-3239,Apple Inc,7556.32,1360.14,0.18,Cloud computing services for Q1 2024,2025-01-17 01:58:36.481350,0
+INV-4788,Aple Inc,24549.82,4418.97,0.18,Emergency maintenance work,2024-09-16 01:58:36.481350,1
+INV-4116,Amazon Web Services,1819.74,327.55,0.18,Hardware procurement and installation,2025-06-01 01:58:36.481350,0
+RWN7BESF,Oracl Corporation,5000.0,900.0,0.18,Various professional services,2024-10-25 01:58:36.481350,1
+INV-1263,IBM Corporaton,37499.01,5617.45,0.14971595130379106,General business expenses,2025-05-16 01:58:36.497189,1
+INV-5398,Microsft Corp,27060.97,2536.22,0.09337943634417058,Emergency maintenance work,2024-12-06 01:58:36.481350,1
+INV-9617,Aple Inc,1023.51,291.86,0.2384632281213684,General business expenses,2025-02-25 01:58:36.481350,1
+BJIXOTH8,Microsft Corp,1000.0,180.0,0.18,General business expenses,2025-01-18 01:58:36.481350,1
+INV-9187,Salesforce Inc,5342.24,961.6,0.18,Software licensing and support services,2025-04-29 01:58:36.481350,0
+INV-5853,Google LLC,8573.8,1543.28,0.18,Software licensing and support services,2025-01-10 01:58:36.481350,0
+INV-4570,Apple Inc,2380.74,428.53,0.18,Software licensing and support services,2025-01-21 01:58:36.481350,0
+INV-4335,Apple Inc,9319.06,1677.43,0.18,Hardware procurement and installation,2024-09-15 01:58:36.481350,0
+INV-4278,Oracl Corporation,10438.62,827.25,0.07995574333179069,Various professional services,2024-12-13 01:58:36.481350,1
+CALUVOS9,IBM Corporaton,1000.0,189.66,0.14059346338810375,Various professional services,2024-09-13 01:58:36.497189,1
+INV-7880,Amazon Web Services,1303.72,234.67,0.18,Cloud computing services for Q1 2024,2025-02-03 01:58:36.481350,0
+INV-7493,Oracle Corporation,2829.05,509.23,0.18,Software licensing and support services,2025-05-31 01:58:36.481350,0
+D3EWWMYS,Aple Inc,5000.0,711.98,0.13844060354648297,Emergency maintenance work,2025-03-22 01:58:36.481350,1
+INV-1789,Apple Inc,1517.63,273.17,0.18,Hardware procurement and installation,2024-11-01 01:58:36.481350,0
+INV-4575,Microsoft Corp,5302.99,954.54,0.18,Software licensing and support services,2025-05-07 01:58:36.481350,0
+INV-8281,Microsoft Corp,3193.46,574.82,0.18,Cloud computing services for Q1 2024,2024-07-17 01:58:36.481350,0
+INV-4693,Salesforce Inc,8524.74,1534.45,0.18,Cloud computing services for Q1 2024,2025-02-02 01:58:36.481350,0
+INV-3236,IBM Corporaton,5000.0,1223.78,0.24736594254154093,Various professional services,2024-11-03 01:58:36.481350,1
+INV-1372,Microsft Corp,34181.57,6152.68,0.18,Various professional services,2025-04-22 01:58:36.497189,1
+INV-1080,Amazon Web Services,1502.19,270.39,0.18,Hardware procurement and installation,2024-10-10 01:58:36.481350,0
+INV-1666,Aple Inc,30890.4,5560.27,0.18,Miscellaneous services and products,2025-06-17 01:58:36.481350,1
+INV-8775,Google LLC,7513.42,1352.42,0.18,Hardware procurement and installation,2024-11-05 01:58:36.481350,0
+INV-5852,Google LLC,9037.33,1626.72,0.18,Cloud computing services for Q1 2024,2024-07-25 01:58:36.481350,0
+INV-4913,Oracl Corporation,28053.44,5049.62,0.18,Miscellaneous services and products,2024-09-12 01:58:36.481350,1
+INV-9437,Salesforce Inc,4421.35,795.84,0.18,Professional consulting services,2024-10-27 01:58:36.481350,0
+INV-6486,IBM Corporation,1324.13,238.34,0.18,Cloud computing services for Q1 2024,2025-04-16 01:58:36.481350,0
+INV-9829,Microsft Corp,33142.24,5965.6,0.18,Miscellaneous services and products,2025-01-27 01:58:36.481350,1
+557CKX7K,Oracl Corporation,14102.11,2538.38,0.18,Emergency maintenance work,2024-11-19 01:58:36.497189,1
+INV-8545,Oracle Corporation,7389.34,1330.08,0.18,Cloud computing services for Q1 2024,2025-05-14 01:58:36.481350,0
+INV-7170,Oracl Corporation,21248.8,3824.78,0.18,Various professional services,2024-08-01 01:58:36.481350,1
+INV-6100,Salesforce Inc,7858.19,1414.47,0.18,Cloud computing services for Q1 2024,2024-12-12 01:58:36.481350,0
+INV-9778,Apple Inc,1102.88,198.52,0.18,Software licensing and support services,2025-03-02 01:58:36.481350,0
+C0NQG81N,Oracl Corporation,3674.69,427.91,0.111172310676476,Various professional services,2025-01-31 01:58:36.499205,1
+INV-3935,Oracle Corporation,9840.68,1771.32,0.18,Hardware procurement and installation,2024-11-13 01:58:36.481350,0
+DIUSAWM7,Aple Inc,1000.0,119.48,0.09785975947559593,Miscellaneous services and products,2024-08-01 01:58:36.497189,1
+INV-7596,Oracl Corporation,3731.7,1095.2,0.2854643130728012,Emergency maintenance work,2024-12-31 01:58:36.481350,1
+INV-4933,IBM Corporaton,10000.0,1800.0,0.18,General business expenses,2024-07-24 01:58:36.481350,1
+INV-5255,Microsoft Corp,9429.01,1697.22,0.18,Hardware procurement and installation,2024-12-07 01:58:36.481350,0
+INV-8634,IBM Corporaton,13637.09,2454.68,0.18,Miscellaneous services and products,2025-03-22 01:58:36.481350,1
+INV-4405,IBM Corporation,7892.47,1420.64,0.18,Professional consulting services,2024-10-03 01:58:36.481350,0
+INV-6868,Oracle Corporation,3845.03,692.11,0.18,Cloud computing services for Q1 2024,2024-12-02 01:58:36.481350,0
+INV-5825,Google LLC,5808.15,1045.47,0.18,Cloud computing services for Q1 2024,2025-02-18 01:58:36.481350,0
+9P3CBGMH,IBM Corporaton,10000.0,2813.29,0.2771045127572767,Miscellaneous services and products,2024-09-06 01:58:36.481350,1
+INV-1462,Apple Inc,2826.49,508.77,0.18,Professional consulting services,2025-03-01 01:58:36.481350,0
+INV-7621,Microsft Corp,35459.0,6382.62,0.18,Emergency maintenance work,2024-10-31 01:58:36.481350,1
+INV-8461,Salesforec Inc,6077.36,357.83,0.0591377006852493,General business expenses,2025-06-27 01:58:36.481350,1
+INV-4049,Amazon Web Servces,1000.0,292.61,0.29867359382631614,Miscellaneous services and products,2025-06-16 01:58:36.481350,1
+I19L5H5B,Aple Inc,13369.77,2406.56,0.18,Emergency maintenance work,2025-03-10 01:58:36.481350,1
+INV-8509,Amazon Web Servces,5534.86,399.25,0.07911339875054056,Miscellaneous services and products,2024-09-24 01:58:36.497189,1
+INV-4790,Apple Inc,1225.09,220.52,0.18,Cloud computing services for Q1 2024,2024-08-26 01:58:36.481350,0
+INV-4181,Oracle Corporation,2781.77,500.72,0.18,Hardware procurement and installation,2025-04-07 01:58:36.481350,0
+INV-6013,Microsoft Corp,1795.02,323.1,0.18,Professional consulting services,2025-06-02 01:58:36.481350,0
+H9478W89,Salesforec Inc,30994.92,5579.09,0.18,Emergency maintenance work,2024-09-07 01:58:36.481350,1
+INV-3632,Amazon Web Services,4785.54,861.4,0.18,Software licensing and support services,2025-06-10 01:58:36.481350,0
+INV-8715,Microsoft Corp,2434.62,438.23,0.18,Cloud computing services for Q1 2024,2025-07-05 01:58:36.481350,0
+HJGK2OU1,Salesforec Inc,24077.48,4333.95,0.18,Various professional services,2025-06-06 01:58:36.481350,1
+INV-9238,Microsft Corp,25000.0,4500.0,0.18,Emergency maintenance work,2024-08-23 01:58:36.481350,1
+MTXKM40W,Aple Inc,35482.63,6386.87,0.18,Various professional services,2024-08-11 01:58:36.481350,1
+INV-3147,Oracl Corporation,1000.0,180.0,0.18,Miscellaneous services and products,2024-12-01 01:58:36.481350,1
+INV-2385,IBM Corporation,4483.91,807.1,0.18,Software licensing and support services,2024-12-24 01:58:36.481350,0
+INV-3733,Salesforec Inc,22294.21,4012.96,0.18,General business expenses,2025-03-29 01:58:36.481350,1
+QQTLHZSU,Salesforec Inc,4243.25,623.12,0.1436053974417597,Emergency maintenance work,2025-04-28 01:58:36.497189,1
+INV-4072,Oracle Corporation,213.75,38.48,0.18,Hardware procurement and installation,2024-08-12 01:58:36.481350,0
+INV-7573,Apple Inc,7052.49,1269.45,0.18,Software licensing and support services,2025-06-15 01:58:36.481350,0
+INV-5849,Oracle Corporation,7504.3,1350.77,0.18,Hardware procurement and installation,2024-10-26 01:58:36.481350,0
+INV-7297,IBM Corporation,8653.64,1557.66,0.18,Cloud computing services for Q1 2024,2024-11-29 01:58:36.481350,0
+6AV80V3A,IBM Corporaton,5000.0,331.44,0.06614363378165876,Miscellaneous services and products,2024-08-30 01:58:36.497189,1
+INV-8228,Microsft Corp,34742.32,5758.25,0.1648872920799162,Various professional services,2025-04-05 01:58:36.481350,1
+INV-4850,Microsoft Corp,4572.7,823.09,0.18,Software licensing and support services,2025-03-20 01:58:36.481350,0
+INV-2198,Salesforce Inc,9567.33,1722.12,0.18,Cloud computing services for Q1 2024,2024-11-15 01:58:36.481350,0
+INV-5143,Salesforce Inc,4021.17,723.81,0.18,Software licensing and support services,2025-03-17 01:58:36.481350,0
+INV-4794,Microsoft Corp,356.69,64.2,0.18,Software licensing and support services,2025-03-24 01:58:36.481350,0
+INV-8228,Salesforce Inc,1710.88,307.96,0.18,Cloud computing services for Q1 2024,2025-04-15 01:58:36.481350,0
+INV-5010,Amazon Web Services,3227.93,581.03,0.18,Software licensing and support services,2024-11-13 01:58:36.481350,0
+9E2JQ80V,Amazon Web Servces,16504.52,2970.81,0.18,Miscellaneous services and products,2024-09-24 01:58:36.481350,1
+INV-1791,Amazon Web Services,4736.04,852.49,0.18,Cloud computing services for Q1 2024,2025-07-09 01:58:36.481350,0
+INV-4971,Amazon Web Servces,34951.89,6291.34,0.18,Emergency maintenance work,2024-11-25 01:58:36.497189,1
+FTT2QKAG,Salesforec Inc,43567.14,11932.42,0.274031439133156,Emergency maintenance work,2025-03-07 01:58:36.497189,1
+INV-6621,IBM Corporaton,24591.37,4426.45,0.18,Miscellaneous services and products,2025-02-14 01:58:36.481350,1
+Z8VMEHKD,Aple Inc,33994.67,6119.04,0.18,Miscellaneous services and products,2024-09-04 01:58:36.481350,1
+INV-6718,Apple Inc,8197.71,1475.59,0.18,Cloud computing services for Q1 2024,2025-04-14 01:58:36.481350,0
+CM3MHKHI,Gogle LLC,1000.0,180.0,0.18,Various professional services,2025-05-10 01:58:36.481350,1
+INV-2912,Google LLC,5323.71,958.27,0.18,Software licensing and support services,2025-04-29 01:58:36.481350,0
+INV-9918,IBM Corporation,7014.58,1262.62,0.18,Cloud computing services for Q1 2024,2025-04-15 01:58:36.481350,0
+INV-3118,IBM Corporation,9392.05,1690.57,0.18,Software licensing and support services,2024-11-14 01:58:36.481350,0
+INV-6876,IBM Corporation,7476.5,1345.77,0.18,Hardware procurement and installation,2024-07-14 01:58:36.481350,0
+INV-7647,Oracl Corporation,22246.46,4004.36,0.18,General business expenses,2024-11-18 01:58:36.481350,1
+INV-5749,Apple Inc,3568.03,642.25,0.18,Cloud computing services for Q1 2024,2024-07-25 01:58:36.481350,0
+L96ZUIXH,Amazon Web Servces,17743.39,3193.81,0.18,Miscellaneous services and products,2024-08-22 01:58:36.497189,1
+INV-9257,Amazon Web Services,1029.61,185.33,0.18,Hardware procurement and installation,2024-07-30 01:58:36.481350,0
+INV-7495,IBM Corporation,9619.34,1731.48,0.18,Professional consulting services,2024-07-22 01:58:36.481350,0
+INV-3120,IBM Corporation,204.78,36.86,0.18,Professional consulting services,2025-07-07 01:58:36.481350,0
+INV-8118,Google LLC,6526.3,1174.73,0.18,Cloud computing services for Q1 2024,2025-02-19 01:58:36.481350,0
+INV-4585,Gogle LLC,5000.0,900.0,0.18,Various professional services,2025-02-09 01:58:36.481350,1
+INV-6360,Oracle Corporation,6011.23,1082.02,0.18,Professional consulting services,2025-03-20 01:58:36.481350,0
+INV-4492,Aple Inc,35532.71,6395.89,0.18,General business expenses,2025-06-05 01:58:36.481350,1
+INV-3571,Google LLC,8509.02,1531.62,0.18,Software licensing and support services,2025-04-18 01:58:36.481350,0
+INV-7956,Google LLC,1002.46,180.44,0.18,Hardware procurement and installation,2024-08-28 01:58:36.481350,0
+INV-9358,Microsft Corp,4680.08,842.41,0.18,Various professional services,2024-11-28 01:58:36.497189,1
+INV-4842,Salesforec Inc,5000.0,900.0,0.18,General business expenses,2024-08-21 01:58:36.481350,1
+INV-3261,Amazon Web Servces,609.61,177.01,0.29187960795913953,Various professional services,2025-02-27 01:58:36.481350,1
+INV-1068,IBM Corporaton,37764.64,8962.04,0.23601939338415362,Miscellaneous services and products,2025-01-20 01:58:36.497189,1
+INV-2758,Google LLC,4161.28,749.03,0.18,Hardware procurement and installation,2024-09-18 01:58:36.481350,0
+INV-1473,Amazon Web Servces,39599.91,7127.98,0.18,Emergency maintenance work,2025-07-05 01:58:36.481350,1
+INV-6372,Apple Inc,9931.72,1787.71,0.18,Professional consulting services,2025-01-01 01:58:36.481350,0
+INV-1916,Salesforec Inc,46138.82,8304.99,0.18,Emergency maintenance work,2024-09-24 01:58:36.481350,1
+INV-6140,IBM Corporaton,25000.0,4500.0,0.18,Various professional services,2025-04-30 01:58:36.481350,1
+0DBICHJ0,Amazon Web Servces,5000.0,900.0,0.18,Miscellaneous services and products,2024-07-18 01:58:36.499205,1
+NRMJAKOU,Aple Inc,2084.2,375.16,0.18,Emergency maintenance work,2025-04-07 01:58:36.497189,1
+INV-8199,Oracle Corporation,916.33,164.94,0.18,Professional consulting services,2025-06-24 01:58:36.481350,0
+INV-3240,Oracle Corporation,8580.38,1544.47,0.18,Cloud computing services for Q1 2024,2024-12-27 01:58:36.481350,0
+INV-1580,Aple Inc,28927.94,5207.03,0.18,Emergency maintenance work,2025-01-11 01:58:36.481350,1
+7PJKAJCE,Microsft Corp,1000.0,336.92,0.29901326360486175,Emergency maintenance work,2025-07-05 01:58:36.499205,1
+INV-3816,Salesforec Inc,38270.57,6888.7,0.18,Miscellaneous services and products,2025-05-25 01:58:36.481350,1
+INV-1311,Amazon Web Services,7653.25,1377.59,0.18,Hardware procurement and installation,2025-01-02 01:58:36.481350,0
+YDZA5M3M,Aple Inc,32287.85,7386.04,0.22979221119429305,General business expenses,2024-12-27 01:58:36.481350,1
+INV-4774,Microsoft Corp,9971.36,1794.84,0.18,Professional consulting services,2024-11-13 01:58:36.481350,0
+INV-9962,Google LLC,1863.88,335.5,0.18,Cloud computing services for Q1 2024,2025-02-09 01:58:36.481350,0
+INV-9249,Amazon Web Services,6944.33,1249.98,0.18,Software licensing and support services,2025-04-20 01:58:36.481350,0
+9A7MUNGA,Microsft Corp,5000.0,900.0,0.18,General business expenses,2024-09-09 01:58:36.481350,1
+INV-9911,Oracle Corporation,2041.64,367.5,0.18,Hardware procurement and installation,2024-10-15 01:58:36.481350,0
+INV-6740,Microsoft Corp,7418.16,1335.27,0.18,Hardware procurement and installation,2024-08-30 01:58:36.481350,0
+6TTWZD3W,Salesforec Inc,5000.0,928.58,0.17819805133510508,Miscellaneous services and products,2025-02-05 01:58:36.481350,1
+VTPSB8XW,Oracl Corporation,18970.53,3720.45,0.19476559678612426,Miscellaneous services and products,2024-09-04 01:58:36.481350,1
+INV-3569,Amazon Web Servces,10000.0,1800.0,0.18,General business expenses,2025-04-29 01:58:36.481350,1
+3XLJ89YD,Microsft Corp,13277.28,2389.91,0.18,General business expenses,2024-12-28 01:58:36.481350,1
+VLTY3LTH,Oracl Corporation,32864.99,5915.7,0.18,Various professional services,2024-11-25 01:58:36.497189,1
+INV-2415,Apple Inc,8162.01,1469.16,0.18,Professional consulting services,2025-04-07 01:58:36.481350,0
+INV-5450,Microsoft Corp,7749.3,1394.87,0.18,Software licensing and support services,2025-01-31 01:58:36.481350,0
+INV-5138,Google LLC,6770.26,1218.65,0.18,Hardware procurement and installation,2024-08-04 01:58:36.481350,0
+CZSS88P0,Gogle LLC,1000.0,180.0,0.18,Miscellaneous services and products,2025-02-23 01:58:36.481350,1
+INV-2761,Google LLC,8408.81,1513.59,0.18,Professional consulting services,2025-01-03 01:58:36.481350,0
+INV-4206,Salesforec Inc,26893.12,3502.64,0.13158611640019796,Various professional services,2025-05-04 01:58:36.481350,1
+INV-7128,IBM Corporaton,49517.81,8913.21,0.18,Emergency maintenance work,2025-05-08 01:58:36.481350,1
+VCEH6061,IBM Corporaton,42980.92,6115.94,0.14158491334409595,Miscellaneous services and products,2025-02-21 01:58:36.497189,1
+INV-1922,IBM Corporaton,10000.0,1800.0,0.18,Miscellaneous services and products,2025-02-07 01:58:36.497189,1
+INV-2323,IBM Corporation,1149.54,206.92,0.18,Hardware procurement and installation,2024-11-22 01:58:36.481350,0
+INV-8421,Amazon Web Services,9054.21,1629.76,0.18,Software licensing and support services,2025-05-09 01:58:36.481350,0
+INV-2846,Amazon Web Servces,31404.81,3322.55,0.10598290817860036,General business expenses,2025-07-13 01:58:36.499205,1
+INV-3255,Oracle Corporation,9187.58,1653.76,0.18,Professional consulting services,2025-05-16 01:58:36.481350,0
+INV-8560,IBM Corporation,2238.37,402.91,0.18,Hardware procurement and installation,2024-09-02 01:58:36.481350,0
+INV-7563,Microsoft Corp,7043.88,1267.9,0.18,Hardware procurement and installation,2025-06-03 01:58:36.481350,0
+INV-3604,Salesforec Inc,47004.07,8460.73,0.18,Miscellaneous services and products,2025-01-07 01:58:36.497189,1
+INV-3314,Amazon Web Servces,22576.61,4063.79,0.18,Emergency maintenance work,2024-12-11 01:58:36.481350,1
+INV-3663,Google LLC,7582.6,1364.87,0.18,Hardware procurement and installation,2024-09-04 01:58:36.481350,0
+INV-4067,Microsoft Corp,2953.97,531.71,0.18,Professional consulting services,2024-11-24 01:58:36.481350,0
+INV-6221,Salesforce Inc,3818.31,687.3,0.18,Software licensing and support services,2025-02-20 01:58:36.481350,0
+INV-8156,IBM Corporation,8537.19,1536.69,0.18,Cloud computing services for Q1 2024,2025-01-12 01:58:36.481350,0
+INV-5804,IBM Corporaton,29175.15,5251.53,0.18,Various professional services,2024-08-22 01:58:36.481350,1
+P2TI8ZMK,Aple Inc,41970.16,7554.63,0.18,Miscellaneous services and products,2025-05-13 01:58:36.481350,1
+INV-1385,Gogle LLC,14903.28,1072.27,0.06913295557056605,Miscellaneous services and products,2025-01-16 01:58:36.481350,1
+INV-5713,Apple Inc,142.48,25.65,0.18,Cloud computing services for Q1 2024,2024-07-28 01:58:36.481350,0
+INV-1688,Microsoft Corp,8117.94,1461.23,0.18,Software licensing and support services,2025-04-15 01:58:36.481350,0
+INV-2920,Salesforce Inc,3135.02,564.3,0.18,Professional consulting services,2024-12-21 01:58:36.481350,0
+INV-9655,IBM Corporation,6573.68,1183.26,0.18,Hardware procurement and installation,2024-12-06 01:58:36.481350,0
+INV-8102,Salesforec Inc,1000.0,180.0,0.18,Emergency maintenance work,2025-05-16 01:58:36.481350,1
+INV-8448,Amazon Web Servces,5000.0,900.0,0.18,General business expenses,2025-03-12 01:58:36.481350,1
+INV-5180,Amazon Web Servces,32349.2,5822.86,0.18,General business expenses,2025-06-21 01:58:36.481350,1
+INV-6812,Apple Inc,109.78,19.76,0.18,Software licensing and support services,2025-01-29 01:58:36.481350,0
+INV-4018,Microsoft Corp,2902.48,522.45,0.18,Cloud computing services for Q1 2024,2025-05-26 01:58:36.481350,0
+INV-8776,Amazon Web Services,168.82,30.39,0.18,Cloud computing services for Q1 2024,2025-06-19 01:58:36.481350,0
+INV-8700,Salesforce Inc,2893.47,520.82,0.18,Cloud computing services for Q1 2024,2024-10-18 01:58:36.481350,0
+INV-6616,Aple Inc,5000.0,900.0,0.18,General business expenses,2024-08-16 01:58:36.481350,1
+INV-3478,Salesforce Inc,4339.75,781.15,0.18,Professional consulting services,2024-09-08 01:58:36.481350,0
+89648415,Salesforec Inc,9059.11,1152.35,0.1266167751583246,General business expenses,2024-11-23 01:58:36.481350,1
+INV-4423,Salesforce Inc,2280.98,410.58,0.18,Professional consulting services,2024-09-20 01:58:36.481350,0
+QY6H4IIM,Oracl Corporation,30007.8,6784.45,0.22507926362263853,General business expenses,2025-05-10 01:58:36.481350,1
+INV-2063,Apple Inc,4323.34,778.2,0.18,Hardware procurement and installation,2024-11-02 01:58:36.481350,0
+INV-9107,Gogle LLC,29293.41,5272.81,0.18,Emergency maintenance work,2025-05-17 01:58:36.481350,1
+INV-6874,Microsoft Corp,3662.01,659.16,0.18,Professional consulting services,2024-10-01 01:58:36.481350,0
+INV-4132,IBM Corporation,1808.36,325.5,0.18,Professional consulting services,2024-07-17 01:58:36.481350,0
+INV-8178,Gogle LLC,4118.44,741.32,0.18,Miscellaneous services and products,2024-10-12 01:58:36.481350,1
+INV-1644,IBM Corporation,2190.81,394.35,0.18,Software licensing and support services,2025-05-30 01:58:36.481350,0
+INV-2500,IBM Corporation,2311.86,416.13,0.18,Software licensing and support services,2024-09-12 01:58:36.481350,0
+INV-5049,Amazon Web Servces,8343.32,2430.04,0.2910539864005823,General business expenses,2025-04-12 01:58:36.481350,1
+INV-9186,Salesforec Inc,570.76,205.08,0.27532070595166047,Emergency maintenance work,2024-11-03 01:58:36.481350,1
+INV-8676,IBM Corporation,621.52,111.87,0.18,Cloud computing services for Q1 2024,2025-04-29 01:58:36.481350,0
+INV-2637,Oracl Corporation,5000.0,900.0,0.18,Miscellaneous services and products,2024-08-31 01:58:36.481350,1
+INV-2766,Microsft Corp,26965.91,4853.86,0.18,Miscellaneous services and products,2025-02-05 01:58:36.497189,1
+INV-4305,Google LLC,8192.52,1474.65,0.18,Professional consulting services,2024-09-13 01:58:36.481350,0
+INV-2137,Amazon Web Services,7962.58,1433.26,0.18,Cloud computing services for Q1 2024,2024-09-06 01:58:36.481350,0
+6FEO96HR,Salesforec Inc,27950.85,2476.88,0.08835344696324017,General business expenses,2024-08-12 01:58:36.499205,1
+INV-7597,Microsft Corp,30560.74,6007.13,0.19667734910189238,Various professional services,2024-08-04 01:58:36.481350,1
+INV-1174,Microsft Corp,25000.0,4865.9,0.19404089530151292,Miscellaneous services and products,2024-12-04 01:58:36.497189,1
+INV-3542,Amazon Web Services,3526.43,634.76,0.18,Professional consulting services,2025-01-12 01:58:36.481350,0
+YY3EYVIZ,Gogle LLC,43222.91,7780.12,0.18,Miscellaneous services and products,2025-06-09 01:58:36.481350,1
+INV-8048,Apple Inc,2977.58,535.96,0.18,Hardware procurement and installation,2024-10-21 01:58:36.481350,0
+INV-9753,Aple Inc,22615.48,4070.79,0.18,Various professional services,2024-12-30 01:58:36.497189,1
+INV-8184,Salesforce Inc,8132.03,1463.77,0.18,Professional consulting services,2024-10-22 01:58:36.481350,0
+EJQA2P1D,Salesforec Inc,7959.29,1539.76,0.18868522084623274,Emergency maintenance work,2024-11-09 01:58:36.481350,1
+4182XD5X,Amazon Web Servces,1000.0,180.0,0.18,Miscellaneous services and products,2025-05-17 01:58:36.481350,1
+INV-4297,IBM Corporation,851.18,153.21,0.18,Software licensing and support services,2024-09-19 01:58:36.481350,0
+INV-5683,Salesforce Inc,6456.86,1162.23,0.18,Cloud computing services for Q1 2024,2024-09-30 01:58:36.481350,0
+INV-4471,Amazon Web Servces,40202.09,7236.38,0.18,Various professional services,2024-08-01 01:58:36.481350,1
+INV-2163,Amazon Web Services,1788.51,321.93,0.18,Cloud computing services for Q1 2024,2025-04-23 01:58:36.481350,0
+INV-4901,Amazon Web Servces,8838.49,1590.93,0.18,Emergency maintenance work,2024-12-25 01:58:36.499205,1
+INV-8432,Oracle Corporation,3919.31,705.48,0.18,Professional consulting services,2025-05-13 01:58:36.481350,0
+INV-9253,Amazon Web Servces,5000.0,295.53,0.05881337192632689,General business expenses,2025-02-08 01:58:36.481350,1
+INV-6146,Google LLC,234.94,42.29,0.18,Hardware procurement and installation,2025-04-18 01:58:36.481350,0
+INV-1240,Aple Inc,25571.65,7437.81,0.2920900808287421,General business expenses,2024-12-20 01:58:36.481350,1
+WOIODCG7,Microsft Corp,17543.01,3157.74,0.18,Emergency maintenance work,2025-02-05 01:58:36.481350,1
+INV-7304,IBM Corporaton,32599.52,5867.91,0.18,General business expenses,2025-06-19 01:58:36.497189,1
+INV-9730,Salesforec Inc,1000.0,219.4,0.2330770429005134,Miscellaneous services and products,2024-09-21 01:58:36.481350,1
+UFYLEATT,Amazon Web Servces,43088.66,7755.96,0.18,Various professional services,2025-01-22 01:58:36.481350,1
+9XP1TO83,IBM Corporaton,15491.89,2788.54,0.18,Various professional services,2025-05-18 01:58:36.481350,1
+INV-5712,Oracle Corporation,9566.0,1721.88,0.18,Professional consulting services,2025-05-07 01:58:36.481350,0
+INV-4221,Gogle LLC,19020.73,3423.73,0.18,Emergency maintenance work,2024-07-20 01:58:36.481350,1
+INV-3919,IBM Corporaton,24935.21,4488.34,0.18,Emergency maintenance work,2024-09-17 01:58:36.481350,1
+INV-2872,IBM Corporation,4918.48,885.33,0.18,Software licensing and support services,2024-11-24 01:58:36.481350,0
+INV-7827,Amazon Web Services,4837.99,870.84,0.18,Software licensing and support services,2024-09-06 01:58:36.481350,0
+INV-4276,IBM Corporaton,13904.48,1090.11,0.07820976706731626,Emergency maintenance work,2025-02-26 01:58:36.497189,1
+INV-9876,Gogle LLC,1023.92,184.31,0.18,Various professional services,2024-11-19 01:58:36.481350,1
+INV-8696,Google LLC,9927.44,1786.94,0.18,Cloud computing services for Q1 2024,2024-11-04 01:58:36.481350,0
+INV-7961,Salesforce Inc,9151.24,1647.22,0.18,Professional consulting services,2025-03-29 01:58:36.481350,0
+4XMD151S,Gogle LLC,25672.32,4621.02,0.18,Various professional services,2025-04-14 01:58:36.481350,1
+INV-4226,Google LLC,5456.37,982.15,0.18,Cloud computing services for Q1 2024,2024-11-25 01:58:36.481350,0
+INV-8655,Microsoft Corp,3574.76,643.46,0.18,Cloud computing services for Q1 2024,2024-10-23 01:58:36.481350,0
+INV-7679,Apple Inc,613.88,110.5,0.18,Software licensing and support services,2025-05-31 01:58:36.481350,0
+INV-6567,Microsoft Corp,3306.66,595.2,0.18,Hardware procurement and installation,2024-11-19 01:58:36.481350,0
+SNKDJ46U,Aple Inc,20874.13,4935.77,0.236077245631176,Emergency maintenance work,2025-02-12 01:58:36.481350,1
+INV-2560,Salesforce Inc,5976.04,1075.69,0.18,Professional consulting services,2024-08-02 01:58:36.481350,0
+INV-6284,IBM Corporaton,35733.1,6431.96,0.18,Various professional services,2025-05-02 01:58:36.481350,1
+INV-3070,Microsoft Corp,2003.79,360.68,0.18,Professional consulting services,2024-11-28 01:58:36.481350,0
+PZGC9GE9,IBM Corporaton,5000.0,900.0,0.18,Various professional services,2024-10-25 01:58:36.481350,1
+INV-6426,Microsft Corp,1000.0,155.56,0.13707210650524276,Emergency maintenance work,2024-09-02 01:58:36.481350,1
+INV-3383,IBM Corporation,5683.01,1022.94,0.18,Cloud computing services for Q1 2024,2025-04-07 01:58:36.481350,0
+INV-3905,Google LLC,2130.38,383.47,0.18,Cloud computing services for Q1 2024,2025-01-29 01:58:36.481350,0
+INV-9256,Amazon Web Servces,35728.22,6431.08,0.18,Various professional services,2025-05-10 01:58:36.481350,1
+INV-8015,Oracle Corporation,5701.58,1026.28,0.18,Software licensing and support services,2025-03-29 01:58:36.481350,0
+INV-3139,IBM Corporation,1633.76,294.08,0.18,Professional consulting services,2025-05-20 01:58:36.481350,0
+INV-3160,Apple Inc,2457.82,442.41,0.18,Hardware procurement and installation,2024-09-03 01:58:36.481350,0
+INV-6775,Microsoft Corp,7581.32,1364.64,0.18,Hardware procurement and installation,2024-11-29 01:58:36.481350,0
+INV-9147,Microsoft Corp,9051.93,1629.35,0.18,Cloud computing services for Q1 2024,2025-04-20 01:58:36.481350,0
+INV-7365,Oracle Corporation,7296.17,1313.31,0.18,Professional consulting services,2025-05-05 01:58:36.481350,0
+INV-3412,Amazon Web Services,563.22,101.38,0.18,Professional consulting services,2025-05-05 01:58:36.481350,0
+INV-2223,Salesforce Inc,8401.11,1512.2,0.18,Professional consulting services,2024-09-02 01:58:36.481350,0
+INV-5258,Microsoft Corp,4372.29,787.01,0.18,Software licensing and support services,2025-04-14 01:58:36.481350,0
+INV-7949,Google LLC,9861.98,1775.16,0.18,Hardware procurement and installation,2025-01-22 01:58:36.481350,0
+INV-5932,Oracle Corporation,4745.41,854.17,0.18,Cloud computing services for Q1 2024,2024-10-19 01:58:36.481350,0
+G38S8FUQ,IBM Corporaton,43641.99,2532.85,0.058581787910155905,Miscellaneous services and products,2025-05-20 01:58:36.481350,1
+INV-2266,Oracle Corporation,9369.56,1686.52,0.18,Hardware procurement and installation,2025-01-27 01:58:36.481350,0
+INV-1223,IBM Corporaton,10000.0,1800.0,0.18,Miscellaneous services and products,2025-02-14 01:58:36.481350,1
+INV-9832,Oracle Corporation,3391.07,610.39,0.18,Cloud computing services for Q1 2024,2025-04-05 01:58:36.481350,0
+INV-7378,Microsoft Corp,6038.28,1086.89,0.18,Hardware procurement and installation,2025-06-19 01:58:36.481350,0
+INV-2977,IBM Corporaton,6134.99,1104.3,0.18,Various professional services,2024-08-13 01:58:36.481350,1
+INV-8940,Oracle Corporation,8450.85,1521.15,0.18,Hardware procurement and installation,2024-12-24 01:58:36.481350,0
+YVOHYXMP,Microsft Corp,1000.0,180.0,0.18,Emergency maintenance work,2024-08-07 01:58:36.481350,1
+INV-4511,Microsoft Corp,2936.63,528.59,0.18,Hardware procurement and installation,2025-05-13 01:58:36.481350,0
+INV-2395,Google LLC,7659.41,1378.69,0.18,Hardware procurement and installation,2024-08-21 01:58:36.481350,0
+INV-4130,Salesforec Inc,47686.78,8583.62,0.18,Various professional services,2024-07-31 01:58:36.481350,1
+INV-5564,Salesforec Inc,10000.0,2620.88,0.2593326492208242,General business expenses,2024-07-29 01:58:36.481350,1
+INV-2442,Apple Inc,5697.92,1025.63,0.18,Hardware procurement and installation,2024-08-27 01:58:36.481350,0
+INV-1266,Amazon Web Services,1163.21,209.38,0.18,Software licensing and support services,2024-11-08 01:58:36.481350,0
+INV-2873,Amazon Web Servces,32658.86,5878.59,0.18,Miscellaneous services and products,2025-01-28 01:58:36.481350,1
+INV-3463,Salesforec Inc,32031.64,9517.5,0.29663495905929443,Emergency maintenance work,2024-10-09 01:58:36.481350,1
+INV-9047,Microsft Corp,34208.27,3424.13,0.10044323650567431,Emergency maintenance work,2024-09-14 01:58:36.481350,1
+INV-5475,Oracl Corporation,25000.0,4133.88,0.16636330964262025,Various professional services,2025-03-06 01:58:36.497189,1
+INV-6968,Microsoft Corp,1671.74,300.91,0.18,Professional consulting services,2024-12-31 01:58:36.481350,0
+INV-9276,Apple Inc,5494.93,989.09,0.18,Software licensing and support services,2024-11-27 01:58:36.481350,0
+INV-9530,Amazon Web Services,3406.15,613.11,0.18,Software licensing and support services,2025-07-03 01:58:36.481350,0
+INV-2172,Salesforec Inc,11569.74,2082.55,0.18,Various professional services,2025-01-12 01:58:36.481350,1
+INV-4252,IBM Corporation,3141.22,565.42,0.18,Hardware procurement and installation,2024-09-15 01:58:36.481350,0
+INV-5703,Oracl Corporation,3422.35,469.18,0.13792853223298684,Various professional services,2025-01-19 01:58:36.481350,1
+INV-4377,Amazon Web Services,1809.57,325.72,0.18,Software licensing and support services,2025-06-25 01:58:36.481350,0
+INV-9099,Amazon Web Services,7493.59,1348.85,0.18,Cloud computing services for Q1 2024,2025-04-15 01:58:36.481350,0
+VAVHCGCN,Microsft Corp,14438.63,4209.06,0.28883619906240265,Emergency maintenance work,2024-07-18 01:58:36.481350,1
+INV-7360,Salesforce Inc,8465.0,1523.7,0.18,Software licensing and support services,2024-08-08 01:58:36.481350,0
+INV-5963,Apple Inc,9571.11,1722.8,0.18,Professional consulting services,2025-03-17 01:58:36.481350,0
+INV-1746,Salesforec Inc,1000.0,180.0,0.18,Emergency maintenance work,2024-09-30 01:58:36.497189,1
+INV-8885,IBM Corporation,9009.62,1621.73,0.18,Cloud computing services for Q1 2024,2025-06-05 01:58:36.481350,0
+INV-5772,Salesforce Inc,5100.36,918.06,0.18,Hardware procurement and installation,2025-01-07 01:58:36.481350,0
+INV-7056,Microsft Corp,11243.89,1330.44,0.12099790043473373,Various professional services,2025-05-28 01:58:36.497189,1
+INV-8998,Microsoft Corp,1609.56,289.72,0.18,Software licensing and support services,2025-04-14 01:58:36.481350,0
+INV-4958,IBM Corporation,551.38,99.25,0.18,Software licensing and support services,2025-03-01 01:58:36.481350,0
+INV-3851,IBM Corporation,349.22,62.86,0.18,Software licensing and support services,2024-10-30 01:58:36.481350,0
+INV-4664,Oracle Corporation,5363.19,965.37,0.18,Cloud computing services for Q1 2024,2024-09-30 01:58:36.481350,0
+INV-2080,Oracl Corporation,10000.0,1800.0,0.18,Emergency maintenance work,2024-08-31 01:58:36.481350,1
+ZBOP90VP,Oracl Corporation,43636.43,7143.62,0.16443061419801536,Emergency maintenance work,2025-05-21 01:58:36.481350,1
+INV-3755,Apple Inc,9613.22,1730.38,0.18,Cloud computing services for Q1 2024,2025-01-24 01:58:36.481350,0
+Y62Z4WPK,IBM Corporaton,41302.58,7434.46,0.18,Emergency maintenance work,2024-09-25 01:58:36.481350,1
+INV-4121,Salesforce Inc,2039.36,367.08,0.18,Software licensing and support services,2024-12-08 01:58:36.481350,0
+INV-8811,Microsoft Corp,3539.55,637.12,0.18,Cloud computing services for Q1 2024,2025-04-06 01:58:36.481350,0
+0D68R5NW,Gogle LLC,17889.48,3220.11,0.18,Various professional services,2025-06-16 01:58:36.497189,1
+INV-2356,IBM Corporation,6737.23,1212.7,0.18,Cloud computing services for Q1 2024,2024-07-17 01:58:36.481350,0
+INV-5502,Salesforec Inc,7202.41,1685.66,0.23081206865933268,Various professional services,2025-01-07 01:58:36.499205,1
+INV-9808,Aple Inc,5000.0,900.0,0.18,Various professional services,2024-10-19 01:58:36.481350,1
+INV-1055,Salesforec Inc,29493.12,5308.76,0.18,General business expenses,2025-03-16 01:58:36.481350,1
+8FOADF9N,Gogle LLC,15450.74,2781.13,0.18,Various professional services,2024-10-20 01:58:36.481350,1
+INV-7076,Salesforce Inc,8090.59,1456.31,0.18,Professional consulting services,2025-05-05 01:58:36.481350,0
+INV-6941,IBM Corporation,8697.42,1565.54,0.18,Cloud computing services for Q1 2024,2025-06-29 01:58:36.481350,0
+INV-4035,Google LLC,7349.24,1322.86,0.18,Professional consulting services,2025-05-05 01:58:36.481350,0
+INV-9632,Amazon Web Services,8916.73,1605.01,0.18,Professional consulting services,2024-11-01 01:58:36.481350,0
+INV-5025,Oracle Corporation,4900.09,882.02,0.18,Professional consulting services,2025-04-08 01:58:36.481350,0
+9U98WC3E,Salesforec Inc,33088.79,9681.66,0.29114492417490245,General business expenses,2025-06-19 01:58:36.481350,1
+INV-4360,Microsft Corp,37449.76,6740.96,0.18,Miscellaneous services and products,2024-12-01 01:58:36.481350,1
+INV-2448,Microsoft Corp,1100.41,198.07,0.18,Cloud computing services for Q1 2024,2025-03-30 01:58:36.481350,0
+INV-2424,Microsft Corp,4605.2,481.35,0.1060484978095607,Emergency maintenance work,2025-01-10 01:58:36.481350,1
+99MGSNYU,Aple Inc,1000.0,187.77,0.1548779176996598,General business expenses,2024-10-29 01:58:36.481350,1
+INV-3791,Microsoft Corp,5837.1,1050.68,0.18,Hardware procurement and installation,2024-12-11 01:58:36.481350,0
+INV-5978,Apple Inc,4832.14,869.79,0.18,Cloud computing services for Q1 2024,2025-07-01 01:58:36.481350,0
+INV-9561,IBM Corporaton,1000.0,180.0,0.18,Various professional services,2025-07-05 01:58:36.481350,1
+INV-3399,IBM Corporaton,41449.24,7460.86,0.18,Various professional services,2025-04-23 01:58:36.497189,1
+INV-7242,Gogle LLC,10000.0,881.63,0.09055256174728953,Emergency maintenance work,2024-07-23 01:58:36.481350,1
+C9Q9I9EB,Microsft Corp,40993.25,8125.39,0.19766733809202902,Emergency maintenance work,2025-03-20 01:58:36.481350,1
+INV-9443,Salesforce Inc,241.29,43.43,0.18,Cloud computing services for Q1 2024,2025-03-22 01:58:36.481350,0
+INV-5133,Microsft Corp,39884.73,5855.92,0.14628798849493146,Emergency maintenance work,2025-03-18 01:58:36.481350,1
+INV-3526,Salesforce Inc,9004.98,1620.9,0.18,Software licensing and support services,2024-11-09 01:58:36.481350,0
+INV-1538,Amazon Web Services,9584.36,1725.18,0.18,Hardware procurement and installation,2025-03-02 01:58:36.481350,0
+V6ZHCWSH,Microsft Corp,1000.0,180.0,0.18,Miscellaneous services and products,2024-11-19 01:58:36.481350,1
+INV-3706,Microsft Corp,1000.0,180.0,0.18,Various professional services,2025-03-17 01:58:36.481350,1
+INV-8589,Salesforce Inc,2910.37,523.87,0.18,Hardware procurement and installation,2025-02-22 01:58:36.481350,0
+INV-1906,Oracle Corporation,371.86,66.93,0.18,Professional consulting services,2025-01-30 01:58:36.481350,0
+INV-7887,Amazon Web Servces,5000.0,481.27,0.09262716099430172,General business expenses,2025-05-27 01:58:36.481350,1
+INV-1012,Aple Inc,1044.03,74.11,0.07164501315761117,Various professional services,2024-10-13 01:58:36.481350,1
+INV-1436,Aple Inc,1000.0,180.0,0.18,General business expenses,2024-08-26 01:58:36.481350,1
+INV-5257,IBM Corporaton,17876.51,3217.77,0.18,Miscellaneous services and products,2025-03-10 01:58:36.481350,1
+INV-1426,Google LLC,5680.52,1022.49,0.18,Software licensing and support services,2024-07-24 01:58:36.481350,0
+INV-4782,Microsft Corp,6254.75,1125.86,0.18,Miscellaneous services and products,2025-05-20 01:58:36.481350,1
+NY8DHKWO,Gogle LLC,11167.44,1819.99,0.15963942733506192,Miscellaneous services and products,2024-10-31 01:58:36.497189,1
+INV-1235,IBM Corporation,1503.53,270.64,0.18,Hardware procurement and installation,2024-09-23 01:58:36.481350,0
+INV-1248,Amazon Web Services,1973.77,355.28,0.18,Hardware procurement and installation,2025-06-24 01:58:36.481350,0
+INV-2871,Salesforec Inc,46373.56,7282.55,0.15811040977045315,Miscellaneous services and products,2025-04-18 01:58:36.481350,1
+INV-1143,Microsft Corp,40764.03,3106.14,0.07509515439099106,Various professional services,2024-09-17 01:58:36.481350,1
+M7Y8RP03,Oracl Corporation,31781.01,5720.58,0.18,Emergency maintenance work,2025-06-11 01:58:36.497189,1
+INV-7968,Apple Inc,2254.02,405.72,0.18,Cloud computing services for Q1 2024,2025-02-11 01:58:36.481350,0
+INV-9598,Oracl Corporation,25085.05,4478.8,0.17895282471332502,Miscellaneous services and products,2025-05-24 01:58:36.497189,1
+INV-1563,Gogle LLC,11776.78,2380.68,0.20198866463758397,Various professional services,2024-08-21 01:58:36.481350,1
+INV-4857,IBM Corporation,4971.72,894.91,0.18,Hardware procurement and installation,2024-08-01 01:58:36.481350,0
+INV-5624,Salesforce Inc,3435.45,618.38,0.18,Professional consulting services,2024-12-15 01:58:36.481350,0
+INV-8057,Apple Inc,2992.53,538.66,0.18,Hardware procurement and installation,2025-06-15 01:58:36.481350,0
+3ND94PZG,Oracl Corporation,13799.33,2483.88,0.18,Miscellaneous services and products,2025-03-04 01:58:36.497189,1
+INV-4523,Aple Inc,13439.46,2419.1,0.18,Emergency maintenance work,2025-06-30 01:58:36.481350,1
+INV-5408,Google LLC,9360.9,1684.96,0.18,Software licensing and support services,2025-02-07 01:58:36.481350,0
+INV-1118,IBM Corporaton,21086.15,3795.51,0.18,Various professional services,2025-06-13 01:58:36.481350,1
+INV-8205,Microsoft Corp,4921.74,885.91,0.18,Professional consulting services,2024-10-09 01:58:36.481350,0
+2YAPQXT3,Microsft Corp,25808.08,5117.58,0.19823317240303306,Miscellaneous services and products,2024-07-28 01:58:36.481350,1
+INV-7719,Aple Inc,38227.28,6880.91,0.18,General business expenses,2024-09-19 01:58:36.481350,1
+INV-6166,Microsft Corp,34755.97,6032.4,0.1722241668458932,General business expenses,2025-01-09 01:58:36.481350,1
+INV-9612,Oracle Corporation,6202.63,1116.47,0.18,Cloud computing services for Q1 2024,2024-09-29 01:58:36.481350,0
+INV-4474,IBM Corporation,2886.0,519.48,0.18,Cloud computing services for Q1 2024,2024-07-15 01:58:36.481350,0
+INV-9254,Aple Inc,735.72,132.43,0.18,Miscellaneous services and products,2024-08-27 01:58:36.481350,1
+INV-8313,IBM Corporation,4950.57,891.1,0.18,Hardware procurement and installation,2024-11-06 01:58:36.481350,0
+INV-7281,Salesforec Inc,48636.56,8754.58,0.18,Miscellaneous services and products,2025-04-12 01:58:36.481350,1
+INV-2397,Google LLC,1079.01,194.22,0.18,Software licensing and support services,2024-08-10 01:58:36.481350,0
+INV-1338,Oracl Corporation,25000.0,4500.0,0.18,Emergency maintenance work,2025-05-09 01:58:36.481350,1
+INV-2255,IBM Corporation,8600.1,1548.02,0.18,Software licensing and support services,2025-04-25 01:58:36.481350,0
+INV-6322,Gogle LLC,8246.34,1484.34,0.18,Emergency maintenance work,2024-12-27 01:58:36.497189,1
+INV-9120,Google LLC,5481.76,986.72,0.18,Professional consulting services,2025-05-23 01:58:36.481350,0
+INV-4619,Amazon Web Servces,1908.86,391.17,0.2230458517704716,Various professional services,2024-09-09 01:58:36.481350,1
+INV-5761,Gogle LLC,1000.0,180.0,0.18,Various professional services,2025-07-08 01:58:36.497189,1
+INV-5338,IBM Corporaton,28531.4,5135.65,0.18,Emergency maintenance work,2025-02-03 01:58:36.481350,1
+INV-7030,Oracl Corporation,9127.3,2649.16,0.2953926148149679,Various professional services,2025-02-15 01:58:36.497189,1
+INV-2188,Oracle Corporation,2587.93,465.83,0.18,Hardware procurement and installation,2024-10-13 01:58:36.481350,0
+INV-6068,Amazon Web Services,8334.74,1500.25,0.18,Software licensing and support services,2024-07-27 01:58:36.481350,0
+INV-2202,Amazon Web Services,9527.96,1715.03,0.18,Cloud computing services for Q1 2024,2024-12-03 01:58:36.481350,0
+INV-4381,Aple Inc,48125.96,8662.67,0.18,Emergency maintenance work,2025-02-23 01:58:36.481350,1
+INV-3477,IBM Corporaton,5000.0,546.96,0.11016676775455465,Miscellaneous services and products,2024-11-09 01:58:36.497189,1
+INV-3640,Amazon Web Services,1892.03,340.57,0.18,Hardware procurement and installation,2024-12-14 01:58:36.481350,0
+INV-8801,IBM Corporaton,5000.0,900.0,0.18,General business expenses,2024-08-14 01:58:36.481350,1
+INV-7016,Amazon Web Servces,22983.0,4136.94,0.18,General business expenses,2024-09-23 01:58:36.497189,1
+8KVRW29H,Gogle LLC,5000.0,900.0,0.18,Emergency maintenance work,2025-03-11 01:58:36.497189,1
+INV-8779,IBM Corporaton,25000.0,4500.0,0.18,General business expenses,2025-02-14 01:58:36.481350,1
+INV-7342,Salesforce Inc,504.21,90.76,0.18,Hardware procurement and installation,2025-02-14 01:58:36.481350,0
+INV-9278,IBM Corporation,8711.16,1568.01,0.18,Cloud computing services for Q1 2024,2024-11-22 01:58:36.481350,0
+2GNKK393,Microsft Corp,1000.0,180.0,0.18,Emergency maintenance work,2025-05-13 01:58:36.481350,1
+INV-8345,Amazon Web Services,4616.09,830.9,0.18,Professional consulting services,2025-05-20 01:58:36.481350,0
+INV-9401,IBM Corporation,3644.12,655.94,0.18,Hardware procurement and installation,2025-07-09 01:58:36.481350,0
+INV-8659,Gogle LLC,15979.96,2876.39,0.18,General business expenses,2025-07-08 01:58:36.481350,1
+INV-4751,Microsoft Corp,1789.24,322.06,0.18,Professional consulting services,2025-03-16 01:58:36.481350,0
+INV-4145,Amazon Web Servces,16361.92,3798.78,0.22934510718752943,Miscellaneous services and products,2024-09-13 01:58:36.481350,1
+INV-9117,IBM Corporaton,2865.74,515.83,0.18,Miscellaneous services and products,2024-11-03 01:58:36.481350,1
+INV-2473,Oracl Corporation,25140.08,4525.21,0.18,General business expenses,2025-01-16 01:58:36.481350,1
+INV-5502,Salesforce Inc,5639.4,1015.09,0.18,Hardware procurement and installation,2025-03-12 01:58:36.481350,0
+INV-8581,Microsoft Corp,9913.6,1784.45,0.18,Hardware procurement and installation,2025-05-02 01:58:36.481350,0
+INV-1650,Amazon Web Services,9589.36,1726.08,0.18,Software licensing and support services,2024-08-22 01:58:36.481350,0
+INV-2750,Salesforec Inc,2424.91,167.09,0.07078448742082098,Emergency maintenance work,2025-01-02 01:58:36.481350,1
+INV-2400,Google LLC,116.47,20.96,0.18,Software licensing and support services,2024-11-04 01:58:36.481350,0
+INV-6218,Oracle Corporation,2328.89,419.2,0.18,Professional consulting services,2025-06-05 01:58:36.481350,0
+INV-6553,Amazon Web Services,8831.34,1589.64,0.18,Software licensing and support services,2024-10-10 01:58:36.481350,0
+INV-5294,Google LLC,2940.96,529.37,0.18,Software licensing and support services,2024-12-04 01:58:36.481350,0
+SDO7CQIR,Salesforec Inc,1000.0,161.91,0.2009571957446123,Emergency maintenance work,2025-01-26 01:58:36.497189,1
+INV-8457,Amazon Web Servces,20975.99,3775.68,0.18,Emergency maintenance work,2024-11-20 01:58:36.481350,1
+INV-2483,Aple Inc,10000.0,1800.0,0.18,Various professional services,2025-03-06 01:58:36.481350,1
+INV-1887,Apple Inc,8167.33,1470.12,0.18,Cloud computing services for Q1 2024,2024-08-12 01:58:36.481350,0
+INV-2879,IBM Corporaton,42043.88,6323.79,0.14962280110235116,Various professional services,2025-03-14 01:58:36.481350,1
+INV-8140,Microsoft Corp,6397.1,1151.48,0.18,Hardware procurement and installation,2024-12-23 01:58:36.481350,0
