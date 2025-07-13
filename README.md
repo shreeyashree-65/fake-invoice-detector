@@ -54,7 +54,7 @@ fake_invoice_detector/
 
 ## 🔧 Installation & Setup
 
-### Quick Setup (Recommended)
+### Quick Setup
 ```bash
 # Clone the repository
 git clone https://github.com/shreeyashree-65/fake-invoice-detector.git
@@ -95,7 +95,7 @@ python setup.py docker-build
 python setup.py docker-start
 ```
 
-### OCR Setup (Optional)
+### OCR Setup 
 For image processing capabilities:
 
 **Windows:**
@@ -109,7 +109,7 @@ sudo apt-get install tesseract-ocr  # Ubuntu/Debian
 brew install tesseract             # macOS
 ```
 
-## 🧠 Machine Learning Approach
+##  Machine Learning Approach
 
 ### Feature Engineering
 - **Text Features**: Vendor name patterns, description analysis
@@ -126,7 +126,7 @@ brew install tesseract             # macOS
 - 50% genuine invoices with proper formatting
 - 50% fake invoices with suspicious indicators
 
-## 🚀 Usage
+##  Usage
 
 1. **Upload Invoice**: Drag and drop invoice image
 2. **OCR Processing**: Text extraction from image
@@ -141,7 +141,7 @@ brew install tesseract             # macOS
 - **Recall**: 97% for genuine invoice detection
 - **F1-Score**: 95% overall performance
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] Deep learning models for better accuracy
 - [ ] Multi-language OCR support
@@ -149,7 +149,7 @@ brew install tesseract             # macOS
 - [ ] Mobile app development
 - [ ] API rate limiting and authentication
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -157,16 +157,11 @@ brew install tesseract             # macOS
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
+##  Author
 
-**Shreeyashree** - [shreeyashree-65](https://github.com/shreeyashree-65)
+**SHREEYA P S** - [shreeyashree-65](https://github.com/shreeyashree-65)
 
-## 📞 Support
-
-If you found this project helpful, please give it a ⭐ star!
-
-For questions and support, please open an issue on GitHub.
