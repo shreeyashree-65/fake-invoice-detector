@@ -106,13 +106,7 @@ For image processing capabilities:
 3. **Feature Extraction**: Analyze text and numerical patterns
 4. **ML Prediction**: Classify as genuine or fake
 5. **Results**: View prediction with confidence score
-
-## 📊 Performance Metrics
-
-- **Accuracy**: 95%+ on test data
-- **Precision**: 93% for fake invoice detection
-- **Recall**: 97% for genuine invoice detection
-- **F1-Score**: 95% overall performance
+   
 
 ##  Future Enhancements
 
