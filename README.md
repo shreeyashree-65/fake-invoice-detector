@@ -31,27 +31,6 @@ AI-powered fake invoice detection system using machine learning to identify frau
 - **Material-UI**: Modern UI components
 - **Axios**: API communication
 
-##  Project Structure
-
-```
-fake_invoice_detector/
-├── backend/                 # FastAPI backend
-│   ├── src/
-│   │   ├── data_generator.py    # Generate training data
-│   │   ├── feature_engineering.py
-│   │   ├── model_trainer.py     # Train ML models
-│   │   └── ocr_processor.py     # OCR functionality
-│   ├── models/              # Trained ML models
-│   ├── data/               # Training data
-│   ├── app.py              # FastAPI application
-│   └── requirements.txt    # Python dependencies
-├── frontend/               # React frontend
-│   ├── src/
-│   ├── public/
-│   └── package.json
-└── README.md
-```
-
 ##  Installation & Setup
 
 ### Quick Setup
