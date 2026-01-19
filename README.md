@@ -35,14 +35,14 @@ AI-powered fake invoice detection system using machine learning to identify frau
 
 ### Quick Setup
 ```bash
-# Clone the repository
+#Clone the repository
 git clone https://github.com/shreeyashree-65/fake-invoice-detector.git
 cd fake-invoice-detector
 
-# Run automatic setup
+#Run automatic setup
 python setup.py setup
 
-# Start development servers
+#Start development servers
 python setup.py dev
 ```
 
@@ -66,10 +66,10 @@ npm start
 
 ### Docker Setup
 ```bash
-# Build and run with Docker
+#Build and run with Docker
 docker-compose up --build
 
-# Or use the setup script
+#Or use the setup script
 python setup.py docker-build
 python setup.py docker-start
 ```
@@ -107,22 +107,6 @@ For image processing capabilities:
 4. **ML Prediction**: Classify as genuine or fake
 5. **Results**: View prediction with confidence score
    
-
-##  Future Enhancements
-
-- [ ] Deep learning models for better accuracy
-- [ ] Multi-language OCR support
-- [ ] Blockchain integration for invoice verification
-- [ ] Mobile app development
-- [ ] API rate limiting and authentication
-
-##  Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ##  License
 
